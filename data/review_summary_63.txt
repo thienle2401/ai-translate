@@ -1,0 +1,315 @@
+[Segment 1] Status: ICE
+  SRC: Sarah Smith
+  TGT: Sarah Smith
+  HTML: <span class="text-node" data-text-node="true">Sarah Smith</span>
+
+[Segment 2] Status: ICE
+  SRC: Chief Executive
+  TGT: Giám Đốc Điều hành
+  HTML: <span class="text-node" data-text-node="true">Chief Executive</span>
+
+[Segment 3] Status: ICE
+  SRC: Sharon Cooper
+  TGT: Sharon Cooper
+  HTML: <span class="text-node" data-text-node="true">Sharon Cooper</span>
+
+[Segment 4] Status: ICE
+  SRC: Director of Children’s Services
+  TGT: Giám đốc Dịch vụ Trẻ em
+  HTML: <span class="text-node" data-text-node="true">Director of Children’s Services</span>
+
+[Segment 5] Status: ICE
+  SRC: Warrington Borough Council
+  TGT: Hội đồng Quận Warrington
+  HTML: <span class="text-node" data-text-node="true">Warrington Borough Council</span>
+
+[Segment 6] Status: ICE
+  SRC: Town Hall
+  TGT: Tòa thị chính
+  HTML: <span class="text-node" data-text-node="true">Town Hall</span>
+
+[Segment 7] Status: ICE
+  SRC: Sankey Street
+  TGT: Sankey Street
+  HTML: <span class="text-node" data-text-node="true">Sankey Street</span>
+
+[Segment 8] Status: ICE
+  SRC: Warrington
+  TGT: Warrington
+  HTML: <span class="text-node" data-text-node="true">Warrington</span>
+
+[Segment 9] Status: ICE
+  SRC: WA1 1UH
+  TGT: WA1 1UH
+  HTML: <span class="text-node" data-text-node="true">WA1 1UH</span>
+
+[Segment 10] Status: ICE
+  SRC: Sarah Smith
+  TGT: Sarah Smith
+  HTML: <span class="text-node" data-text-node="true">Sarah Smith</span>
+
+[Segment 11] Status: ICE
+  SRC: Chief Executive
+  TGT: Giám Đốc Điều hành
+  HTML: <span class="text-node" data-text-node="true">Chief Executive</span>
+
+[Segment 12] Status: ICE
+  SRC: Sharon Cooper
+  TGT: Sharon Cooper
+  HTML: <span class="text-node" data-text-node="true">Sharon Cooper</span>
+
+[Segment 13] Status: ICE
+  SRC: Director of Children’s Services
+  TGT: Giám đốc Dịch vụ Trẻ em
+  HTML: <span class="text-node" data-text-node="true">Director of Children’s Services</span>
+
+[Segment 14] Status: ICE
+  SRC: Warrington Borough Council
+  TGT: Hội đồng Quận Warrington
+  HTML: <span class="text-node" data-text-node="true">Warrington Borough Council</span>
+
+[Segment 15] Status: ICE
+  SRC: Town Hall
+  TGT: Tòa thị chính
+  HTML: <span class="text-node" data-text-node="true">Town Hall</span>
+
+[Segment 16] Status: ICE
+  SRC: Sankey Street
+  TGT: Sankey Street
+  HTML: <span class="text-node" data-text-node="true">Sankey Street</span>
+
+[Segment 17] Status: ICE
+  SRC: Warrington
+  TGT: Warrington
+  HTML: <span class="text-node" data-text-node="true">Warrington</span>
+
+[Segment 18] Status: ICE
+  SRC: WA1 1UH
+  TGT: WA1 1UH
+  HTML: <span class="text-node" data-text-node="true">WA1 1UH</span>
+
+[Segment 19] Status: N
+  SRC: :31202 bbyron@warrington.gov.uk
+  TGT: :31202 bbyron@warrington.gov.uk
+  HTML: <span class="text-node" data-text-node="true">:31202 bbyron@warrington.gov.uk</span>
+
+[Segment 20] Status: N
+  SRC: :31202 bbyron@warrington.gov.uk
+  TGT: :31202 bbyron@warrington.gov.uk
+  HTML: <span class="text-node" data-text-node="true">:31202 bbyron@warrington.gov.uk</span>
+
+[Segment 21] Status: M
+  SRC: Date:August 2026
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Date:</span><img class="inline" data-inline-id="1" data-inline-type="X" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=X&amp;id=1"><span class="text-node" data-text-node="true">August 2026</span>
+
+[Segment 22] Status: 100%
+  SRC: Dear Quan
+  TGT: Gửi Quan
+  HTML: <span class="text-node" data-text-node="true">Dear Quan</span>
+
+[Segment 23] Status: MT
+  SRC: It is time for me to review your care plan, and Evelyn has told me that Neta will be invited, and school, school nurse and Hashim will be asked for a written report only.
+  TGT: Đã đến lúc tôi xem xét lại kế hoạch chăm sóc của bạn, và Evelyn đã cho tôi biết rằng Neta sẽ được mời, trong khi trường học, y tá trường học và Hashim sẽ chỉ được yêu cầu nộp báo cáo bằng văn bản.
+  HTML: <span class="text-node" data-text-node="true">It is time for me to review your care plan, and Evelyn has told me that Neta will be invited, and school, school nurse and Hashim will be asked for a written report only.</span>
+
+[Segment 24] Status: MT
+  SRC: If this is not what you want, please let me know.
+  TGT: Nếu đây không phải những gì bạn muốn, xin vui lòng cho tôi biết.
+  HTML: <span class="text-node" data-text-node="true">If this is not what you want, please let me know.</span>
+
+[Segment 25] Status: 100%
+  SRC: The reason we have a review is to look at your care plan with you and make sure the adults are doing what they are supposed to and that your care plan is still right for you.
+  TGT: Lý do chúng tôi đánh giá là để cùng bạn xem xét kế hoạch chăm sóc của bạn và đảm bảo rằng người lớn đang làm những gì họ phải làm và kế hoạch chăm sóc của bạn vẫn phù hợp với bạn.
+  HTML: <span class="text-node" data-text-node="true">The reason we have a review is to look at your care plan with you and make sure the adults are doing what they are supposed to and that your care plan is still right for you.</span>
+
+[Segment 26] Status: 100%
+  SRC: I want you to be as happy as possible and properly cared for.
+  TGT: Tôi muốn bạn hạnh phúc nhất có thể và được chăm sóc đúng cách.
+  HTML: <span class="text-node" data-text-node="true">I want you to be as happy as possible and properly cared for.</span>
+
+[Segment 27] Status: M
+  SRC: It is my job to make sure you are listened to, and your review is your chance to ask the adults what they are doing for you.
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">It is my job to make sure you are listened to, and your review is your chance to ask the adults what they are doing for you.</span>
+
+[Segment 28] Status: 100%
+  SRC: There are lots of ways you can tell me what you think about your care plan and what is important to you:
+  TGT: Có rất nhiều cách bạn có thể cho tôi biết suy nghĩ của bạn về kế hoạch chăm sóc và điều gì là quan trọng đối với bạn:
+  HTML: <span class="text-node" data-text-node="true">There are lots of ways you can tell me what you think about your care plan and what is important to you:</span>
+
+[Segment 29] Status: MT
+  SRC: Send a report or presentation
+  TGT: Gửi báo cáo hoặc bản trình bày
+  HTML: <span class="text-node" data-text-node="true">Send a report or presentation</span>
+
+[Segment 30] Status: MT
+  SRC: Send some pictures
+  TGT: Gửi một số hình ảnh
+  HTML: <span class="text-node" data-text-node="true">Send some pictures</span>
+
+[Segment 31] Status: MT
+  SRC: Complete and return the contribution form attached
+  TGT: Hoàn thành và gửi lại mẫu đóng góp đính kèm
+  HTML: <span class="text-node" data-text-node="true">Complete and return the contribution form attached</span>
+
+[Segment 32] Status: MT
+  SRC: Ask to speak to me before the review
+  TGT: Yêu cầu nói chuyện với tôi trước buổi đánh giá
+  HTML: <span class="text-node" data-text-node="true">Ask to speak to me before the review</span>
+
+[Segment 33] Status: 100%
+  SRC: Come to your review
+  TGT: Hãy đến với buổi đánh giá của bạn
+  HTML: <span class="text-node" data-text-node="true">Come to your review</span>
+
+[Segment 34] Status: ICE
+  SRC: Chair your own review
+  TGT: Chủ trì đánh giá của riêng bạn
+  HTML: <span class="text-node" data-text-node="true">Chair your own review</span>
+
+[Segment 35] Status: ICE
+  SRC: If you go to Warrington’s “All About Us” website, you can find out more about reviews.
+  TGT: Nếu bạn truy cập trang web “Tất cả về chúng tôi” của Warrington, bạn có thể tìm hiểu thêm về các bài đánh giá.
+  HTML: <span class="text-node" data-text-node="true">If you go to Warrington’s “All About Us” website, you can find out more about reviews.</span>
+
+[Segment 36] Status: ICE
+  SRC: The website also has some great ideas to help you say what you want to say.
+  TGT: Trang web cũng có một số ý tưởng tuyệt vời để giúp bạn nói những gì bạn muốn nói.
+  HTML: <span class="text-node" data-text-node="true">The website also has some great ideas to help you say what you want to say.</span>
+
+[Segment 37] Status: 100%
+  SRC: You can even make your own report on there. https://allaboutus.warrington.gov.uk/
+  TGT: Bạn thậm chí có thể lập báo cáo của riêng mình trên đó. https://allaboutus.warrington.gov.uk/
+  HTML: <span class="text-node" data-text-node="true">You can even make your own report on there. </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">https://allaboutus.warrington.gov.uk/</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 38] Status: M
+  SRC: Although we may talk about you in the review, we do this to make sure the adults are doing what they should, and we will give the adults tasks to complete to make sure your care plan is still supporting you.
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Although we may talk about you in the review, we do this to make sure the adults are doing what they should, and we will give the adults tasks to complete to make sure your care plan is still supporting you.</span>
+
+[Segment 39] Status: M
+  SRC: These tasks will be called review decisions, and these are about jobs for the adults.
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">These tasks will be called review decisions, and these are about jobs for the adults.</span>
+
+[Segment 40] Status: M
+  SRC: After the review, I will write a report, and you can have a copy, but I will write you a letter.
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">After the review, I will write a report, and you can have a copy, but I will write you a letter.</span>
+
+[Segment 41] Status: 100%
+  SRC: I usually send copies of my report to the people who have been invited or consulted at your review.
+  TGT: Tôi thường gửi bản sao báo cáo của mình cho những người đã được mời hoặc tham khảo ý kiến đánh giá của bạn.
+  HTML: <span class="text-node" data-text-node="true">I usually send copies of my report to the people who have been invited or consulted at your review.</span>
+
+[Segment 42] Status: M
+  SRC: If you do not want someone to get a copy, please tell me.
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">If you do not want someone to get a copy, please tell me.</span>
+
+[Segment 43] Status: MT
+  SRC: We hope you feel able to attend and look forward to speaking to you on 25th August 2026 2pm at home.
+  TGT: Chúng tôi hy vọng bạn cảm thấy có khả năng tham dự và mong được nói chuyện với bạn vào ngày 25 tháng 8 năm 2026, 14:00 tại nhà.    tháng tám 2026 2pm 25
+  HTML: <span class="text-node" data-text-node="true">We hope you feel able to attend and look forward to speaking to you on 25</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">th</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true"> August 2026 2pm at home.</span>
+
+[Segment 44] Status: 100%
+  SRC: Ellie Malone
+  TGT: Ellie Malone
+  HTML: <span class="text-node" data-text-node="true">Ellie Malone</span>
+
+[Segment 45] Status: ICE
+  SRC: ELLIE MALONE
+  TGT: ELLIE MALONE
+  HTML: <span class="text-node" data-text-node="true">ELLIE MALONE</span>
+
+[Segment 46] Status: ICE
+  SRC: Independent Reviewing Officer
+  TGT: Cán bộ Đánh giá Độc lập
+  HTML: <span class="text-node" data-text-node="true">Independent Reviewing Officer</span>
+
+[Segment 47] Status: 100%
+  SRC: Direct dial:01925 442781
+  TGT: Quay số trực tiếp:01925 442781
+  HTML: <span class="text-node" data-text-node="true">Direct dial:</span><img class="inline" data-inline-id="1" data-inline-type="X" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=X&amp;id=1"><span class="text-node" data-text-node="true">01925 442781</span>
+
+[Segment 48] Status: M
+  SRC: Mobile: 07775 024841 – This number should only be used during office hours 9am
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Mobile:</span><img class="inline" data-inline-id="1" data-inline-type="X" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=X&amp;id=1"><span class="text-node" data-text-node="true"> 07775 024841 – This number should only be used during office hours 9am</span>
+
+[Segment 49] Status: 100%
+  SRC: to 5pm Mondays to Fridays and should not be used in an emergency
+  TGT: đến 5h chiều thứ hai đến thứ sáu và không nên được sử dụng trong trường hợp khẩn cấp
+  HTML: <span class="text-node" data-text-node="true">to 5pm Mondays to Fridays and should not be used in an emergency</span>
+
+[Segment 50] Status: N
+  SRC: Email: emalone@warrington.gov.uk
+  TGT: Email:emalone@warrington.gov.uk
+  HTML: <span class="text-node" data-text-node="true">Email: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">emalone@warrington.gov.uk</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 51] Status: N
+  SRC: Website: www.warringtonlscb.org
+  TGT: Website:www.warringtonlscb.org
+  HTML: <span class="text-node" data-text-node="true">Website: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">www.warringtonlscb.org</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 52] Status: MT
+  SRC: MAKE SURE YOUR VOICE IS HEARD
+  TGT: ĐẢM BẢO TIẾNG NÓI CỦA BẠN ĐÃ NGHE
+  HTML: <span class="text-node" data-text-node="true">MAKE SURE </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">YOUR VOICE IS </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1"><img class="inline" data-inline-id="2" data-inline-type="G" aria-label="{2}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=2"><span class="text-node" data-text-node="true">HEARD</span><img class="inline" data-inline-id="2" data-inline-type="G" aria-label="{2}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=2">
+
+[Segment 53] Status: MT
+  SRC: YOU HAVE THE RIGHT TO BE LISTENED TO AND TAKEN SERIOUSLY
+  TGT: BẠN CÓ QUYỀN ĐƯỢC LẮNG NGHE VÀ ĐƯỢC XEM XÉT MỘT CÁCH NGHIÊM TÚC
+  HTML: <span class="text-node" data-text-node="true">YOU HAVE THE RIGHT TO BE LISTENED TO AND TAKEN SERIOUSLY</span>
+
+[Segment 54] Status: MT
+  SRC: YOU CAN COME AND GET INVOLVED AT OUR EXPRESS GROUP ONCE A MONTH
+  TGT: BẠN CÓ THỂ ĐẾN VÀ THAM GIA NHÓM EXPRESS CỦA CHÚNG TÔI MỘT LẦN MỖI THÁNG
+  HTML: <span class="text-node" data-text-node="true">YOU CAN COME AND GET INVOLVED AT OUR EXPRESS GROUP ONCE A MONTH</span>
+
+[Segment 55] Status: MT
+  SRC: OR
+  TGT: HOẶC
+  HTML: <span class="text-node" data-text-node="true">OR</span>
+
+[Segment 56] Status: MT
+  SRC: YOU CAN USE THIS LINK TO GET IN TOUCH ONLINE RIGHT AWAY
+  TGT: Bạn có thể sử dụng liên kết này để liên hệ trực tuyến ngay lập tức
+  HTML: <span class="text-node" data-text-node="true">YOU CAN USE THIS LINK TO GET IN TOUCH ONLINE RIGHT AWAY</span>
+
+[Segment 57] Status: MT
+  SRC: EMAIL KPIERCE@WARRINGTON.GOV.UK FOR MORE INFO
+  TGT: E-mail KPIERCE@WARRINGTON.GOV.UK THÊM THÔNG TIN
+  HTML: <span class="text-node" data-text-node="true">EMAIL </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">KPIERCE@WARRINGTON.GOV.UK</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true"> FOR MORE INFO</span>
+
+[Segment 58] Status: MT
+  SRC: OFFICIAL
+  TGT: CHÍNH THỨC
+  HTML: <span class="text-node" data-text-node="true">OFFICIAL</span>
+
+[Segment 59] Status: R
+  SRC: OFFICIAL
+  TGT: CHÍNH THỨC
+  HTML: <span class="text-node" data-text-node="true">OFFICIAL</span>
+
+[Segment 60] Status: R
+  SRC: OFFICIAL
+  TGT: CHÍNH THỨC
+  HTML: <span class="text-node" data-text-node="true">OFFICIAL</span>
+
+[Segment 61] Status: R
+  SRC: OFFICIAL
+  TGT: CHÍNH THỨC
+  HTML: <span class="text-node" data-text-node="true">OFFICIAL</span>
+
+[Segment 62] Status: R
+  SRC: OFFICIAL
+  TGT: CHÍNH THỨC
+  HTML: <span class="text-node" data-text-node="true">OFFICIAL</span>
+
+[Segment 63] Status: R
+  SRC: OFFICIAL
+  TGT: CHÍNH THỨC
+  HTML: <span class="text-node" data-text-node="true">OFFICIAL</span>
+

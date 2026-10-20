@@ -1,0 +1,182 @@
+{
+  "1": {
+    "id": "1",
+    "sourceText": "Dear Ngoc",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dear Ngoc</span>",
+    "targetText": ""
+  },
+  "2": {
+    "id": "2",
+    "sourceText": "Ngoc NGUYEND.O.B. 01/01/2009",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Ngoc NGUYEN</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1f393634a48a4e1d8cd0aed7490fffe6&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">D.O.B. 01/01/2009</span>",
+    "targetText": "Ngoc NGUYENNgày sinh 01/01/2009"
+  },
+  "3": {
+    "id": "3",
+    "sourceText": "2a, Cecil StreetHospital No. AH2119014",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">2a, Cecil Street</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1f393634a48a4e1d8cd0aed7490fffe6&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Hospital No. AH2119014</span>",
+    "targetText": "2a, Cecil StreetSố hồ sơ bệnh viện: AH2119014"
+  },
+  "4": {
+    "id": "4",
+    "sourceText": "Liverpool L15 1HRNHS No. 735 997 6111",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Liverpool L15 1HR</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1f393634a48a4e1d8cd0aed7490fffe6&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">NHS No. 735 997 6111</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"X\" aria-label=\"{2}\" src=\"web/inline-image?_s=1f393634a48a4e1d8cd0aed7490fffe6&amp;size=14&amp;type=X&amp;id=2\">",
+    "targetText": "Liverpool L15 1HRSố NHS: 735 997 6111"
+  },
+  "5": {
+    "id": "5",
+    "sourceText": "I am writing to you with a summary of our last appointment, which took place on 31 July 2026.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I am writing to you with a summary of our last appointment, which took place on 31 July 2026.</span>",
+    "targetText": ""
+  },
+  "6": {
+    "id": "6",
+    "sourceText": "Since our last session, you had continued to enjoy time with friends over the summer holidays.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Since our last session, you had continued to enjoy time with friends over the summer holidays.</span>",
+    "targetText": ""
+  },
+  "7": {
+    "id": "7",
+    "sourceText": "I noted how positive this period of time has been compared to the difficulties you experienced when you were off college for the Easter holidays.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I noted how positive this period of time has been compared to the difficulties you experienced when you were off college for the Easter holidays.</span>",
+    "targetText": ""
+  },
+  "8": {
+    "id": "8",
+    "sourceText": "However, you also let me know that getting to sleep has been more difficult for you recently.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">However, you also let me know that getting to sleep has been more difficult for you recently.</span>",
+    "targetText": ""
+  },
+  "9": {
+    "id": "9",
+    "sourceText": "I wondered if this might have been due to nightmares or difficult thoughts from the past.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I wondered if this might have been due to nightmares or difficult thoughts from the past.</span>",
+    "targetText": ""
+  },
+  "10": {
+    "id": "10",
+    "sourceText": "You let me know that you were thinking less about the past and more about the future.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You let me know that you were thinking less about the past and more about the future.</span>",
+    "targetText": ""
+  },
+  "11": {
+    "id": "11",
+    "sourceText": "You spoke about worries about turning 18 next year and the additional expectation and responsibility that comes with this.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You spoke about worries about turning 18 next year and the additional expectation and responsibility that comes with this.</span>",
+    "targetText": ""
+  },
+  "12": {
+    "id": "12",
+    "sourceText": "You gave the example of needing to book your own appointments as something that you have been feeling nervous about.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You gave the example of needing to book your own appointments as something that you have been feeling nervous about.</span>",
+    "targetText": ""
+  },
+  "13": {
+    "id": "13",
+    "sourceText": "Ngoc, I think this is an understandable way to feel when approaching this big milestone.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Ngoc, I think this is an understandable way to feel when approaching this big milestone.</span>",
+    "targetText": ""
+  },
+  "14": {
+    "id": "14",
+    "sourceText": "Remember that you have support from people like Leah to help you to continue to build confidence with these kinds of life skills.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Remember that you have support from people like Leah to help you to continue to build confidence with these kinds of life skills.</span>",
+    "targetText": ""
+  },
+  "15": {
+    "id": "15",
+    "sourceText": "You also told me that you had finished working with your social worker, which you were understandably sad about.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You also told me that you had finished working with your social worker, which you were understandably sad about.</span>",
+    "targetText": ""
+  },
+  "16": {
+    "id": "16",
+    "sourceText": "You said you were meeting your new social worker after our session and said you were feeling a little nervous about this.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You said you were meeting your new social worker after our session and said you were feeling a little nervous about this.</span>",
+    "targetText": ""
+  },
+  "17": {
+    "id": "17",
+    "sourceText": "We spoke about your hopes for what your new social worker might be like.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We spoke about your hopes for what your new social worker might be like.</span>",
+    "targetText": ""
+  },
+  "18": {
+    "id": "18",
+    "sourceText": "You said you hope they are easy going and kind-hearted.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You said you hope they are easy going and kind-hearted.</span>",
+    "targetText": ""
+  },
+  "19": {
+    "id": "19",
+    "sourceText": "I’m looking forward to hearing how this meeting went in our next session.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I’m looking forward to hearing how this meeting went in our next session.</span>",
+    "targetText": ""
+  },
+  "20": {
+    "id": "20",
+    "sourceText": "We thought about your time in psychology sessions so far and considered whether you might wish to speak about the trauma in your sessions to try and help reduce difficult experiences like flashbacks, intrusive thoughts and nightmares.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We thought about your time in psychology sessions so far and considered whether you might wish to speak about the trauma in your sessions to try and help reduce difficult experiences like flashbacks, intrusive thoughts and nightmares.</span>",
+    "targetText": ""
+  },
+  "21": {
+    "id": "21",
+    "sourceText": "We considered two possible options moving forward:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We considered two possible options moving forward:</span>",
+    "targetText": ""
+  },
+  "22": {
+    "id": "22",
+    "sourceText": "Begin weekly trauma focussed therapy sessions where we will talk together about your past to help you recover from the impact of this",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Begin </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1f393634a48a4e1d8cd0aed7490fffe6&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">weekly trauma focussed therapy sessions</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1f393634a48a4e1d8cd0aed7490fffe6&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> where we will talk together about your past to help you recover from the impact of this</span>",
+    "targetText": ""
+  },
+  "23": {
+    "id": "23",
+    "sourceText": "You may decide that trauma focussed therapy is not necessary and, in this case, we would meet monthly for a check in on your emotional wellbeing",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You may decide that trauma focussed therapy is not necessary and, in this case, we would meet </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1f393634a48a4e1d8cd0aed7490fffe6&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">monthly for a check in on your emotional wellbeing</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1f393634a48a4e1d8cd0aed7490fffe6&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": ""
+  },
+  "24": {
+    "id": "24",
+    "sourceText": "In our last session, you were not sure which option felt like the best decision for you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">In our last session, you were not sure which option felt like the best decision for you.</span>",
+    "targetText": ""
+  },
+  "25": {
+    "id": "25",
+    "sourceText": "We agreed to come back to this in your next session to allow you some time to think carefully about this.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We agreed to come back to this in your next session to allow you some time to think carefully about this.</span>",
+    "targetText": ""
+  },
+  "26": {
+    "id": "26",
+    "sourceText": "I look forward to seeing you again for our next session on Friday 14 August at 11.30am at Liverpool Innovation Park.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I look forward to seeing you again for our next session on Friday 14 August at 11.30am at Liverpool Innovation Park.</span>",
+    "targetText": ""
+  },
+  "27": {
+    "id": "27",
+    "sourceText": "All the best,",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">All the best,</span>",
+    "targetText": "Chúc bạn tất cả những gì tốt đẹp nhất,"
+  },
+  "28": {
+    "id": "28",
+    "sourceText": "Alex",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Alex</span>",
+    "targetText": "Alex"
+  },
+  "29": {
+    "id": "29",
+    "sourceText": "Dr Alexandra Scott-Heyes",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dr Alexandra Scott-Heyes</span>",
+    "targetText": "Bác sỹ Alexandra Scott-Heyes"
+  },
+  "30": {
+    "id": "30",
+    "sourceText": "Clinical Psychologist",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Clinical Psychologist</span>",
+    "targetText": "Nhà tâm lý học Lâm sàng"
+  }
+}

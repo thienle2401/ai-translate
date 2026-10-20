@@ -1,0 +1,770 @@
+[
+  {
+    "id": 1,
+    "sourceText": "Kien, these are the minutes from your review meeting that was held at your new home Moor Lane Preston on the 29th of July 2026.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, these are the minutes from your review meeting that was held at your new home Moor Lane Preston on the 29</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">th</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> of July 2026.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 2,
+    "sourceText": "Kien, my name is Karen Holt, I am your Independent Reviewing Officer, this means I work alongside Sufyan to ensure your care plan is meeting your needs.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, my name is Karen Holt, I am your Independent Reviewing Officer, this means I work alongside Sufyan to ensure your care plan is meeting your needs.</span>",
+    "existingTarget": "Kien, tên tôi là Karen Holt, tôi là Cán bộ Đánh giá Độc lập của bạn, nó có nghĩa là tôi làm việc bên cạnh Sufyan để đảm bảo kế hoạch chăm sóc của bạn đang đáp ứng các nhu cầu của bạn."
+  },
+  {
+    "id": 3,
+    "sourceText": "It is my job to make sure that decisions taken are ones that are best for you, follow your care plan and respect your rights.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">It is my job to make sure that decisions taken are ones that are best for you, follow your care plan and respect your rights.</span>",
+    "existingTarget": "Việc của tôi là đảm bảo rằng các quyết định được đưa ra là tốt nhất cho bạn, tuân theo kế hoạch chăm sóc của bạn và tôn trọng các quyền của bạn."
+  },
+  {
+    "id": 4,
+    "sourceText": "I will also visit you prior to your meetings taking place, within these visits, I will ask you for your wishes and views regarding your care plan.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I will also visit you prior to your meetings taking place, within these visits, I will ask you for your wishes and views regarding your care plan.</span>",
+    "existingTarget": "Tôi cũng sẽ tới thăm bạn trước khi diễn ra cuộc họp của bạn, trong những lần thăm này, tôi sẽ hỏi bạn về các nguyện vọng và quan điểm của bạn về kế hoạch chăm sóc của bạn."
+  },
+  {
+    "id": 5,
+    "sourceText": "Attendees:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Attendees:</span>",
+    "existingTarget": "Người tham dự:"
+  },
+  {
+    "id": 6,
+    "sourceText": "You",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You</span>",
+    "existingTarget": "Bạn"
+  },
+  {
+    "id": 7,
+    "sourceText": "Karen Holt – Independent Reviewing Officer",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Karen Holt – Independent Reviewing Officer</span>",
+    "existingTarget": "Karen Holt – Cán bộ Đánh giá Độc lập"
+  },
+  {
+    "id": 8,
+    "sourceText": "Sufyan Bera – your allocated social worker.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sufyan Bera – your allocated social worker.</span>",
+    "existingTarget": "Sufyan Bera – nhân viên xã hội được phân công cho bạn."
+  },
+  {
+    "id": 9,
+    "sourceText": "Puritan Ngoveni – your leaving care advisor",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Puritan Ngoveni – your leaving care advisor</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 10,
+    "sourceText": "Mohammed – support staff from your home",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mohammed – support staff from your home</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 11,
+    "sourceText": "Anh – online interpreter.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Anh – online interpreter.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 12,
+    "sourceText": "Apologies.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Apologies.</span>",
+    "existingTarget": "Những người vắng mặt."
+  },
+  {
+    "id": 13,
+    "sourceText": "None received.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">None received.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 14,
+    "sourceText": "Legal status – Kien this means how are you legally able to live in foster care.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Legal status – Kien this means how are you legally able to live in foster care.</span>",
+    "existingTarget": "Trạng thái pháp lý - Kien, nó có nghĩa là bạn có thể sống trong sự chăm nuôi một cách hợp pháp như thế nào."
+  },
+  {
+    "id": 15,
+    "sourceText": "Kien, you a subject to Section 20 of The Children Act 1989, in legal terms this means voluntary accommodated/placed in Local Authority care, this is used for all young people who arrive in the United Kingdom without their parents or adult carer.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, you a subject to Section 20 of The Children Act 1989, in legal terms this means voluntary accommodated/placed in Local Authority care, this is used for all young people who arrive in the United Kingdom without their parents or adult carer.</span>",
+    "existingTarget": "Kien, bạn là đối tượng của Điều 20 Đạo luật Trẻ em năm 1989, theo thuật ngữ luật pháp nó có nghĩa là tự nguyện được cung cấp chỗ ở/đưa vào sống trong sự chăm sóc của Chính quyền Địa phương, nó được sử dụng cho tất cả những người trẻ tới Vương quốc Anh mà không có cha mẹ hoặc người trưởng thành chăm sóc đi kèm."
+  },
+  {
+    "id": 16,
+    "sourceText": "Care Plan – Kien this means what is in place to support you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Care Plan – Kien this means what is in place to support you.</span>",
+    "existingTarget": "Kế hoạch Chăm sóc - Kien, nó có nghĩa là người ta thực hiện việc gì để hỗ trợ bạn."
+  },
+  {
+    "id": 17,
+    "sourceText": "Your current care plan is for you to reside in semi-supported accommodation until you reach the age of independence.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Your current care plan is for you to reside in semi-supported accommodation until you reach the age of independence.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 18,
+    "sourceText": "Your care plan will also include information regarding where you live, your health, education and arrangements for time spent with your family members and friends.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Your care plan will also include information regarding where you live, your health, education and arrangements for time spent with your family members and friends.</span>",
+    "existingTarget": "Kế hoạch chăm sóc của bạn cũng sẽ bao gồm thông tin về nơi bạn sống, sức khỏe, việc học tập của bạn và sự sắp xếp dành cho thời gian dành cho gia đình và bạn bè của bạn."
+  },
+  {
+    "id": 19,
+    "sourceText": "Permanence – Kien this means what is the plan for your future in the long term.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Permanence – Kien this means what is the plan for your future in the long term.</span>",
+    "existingTarget": "Chăm sóc lâu dài - Kien nó có nghĩa là kế hoạch dành cho tương lai của bạn về lâu dài là gì."
+  },
+  {
+    "id": 20,
+    "sourceText": "Kien, your current plan for permanence is to reside in semi-supported accommodation until you reach the age of 18.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, your current plan for permanence is to reside in semi-supported accommodation until you reach the age of 18.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 21,
+    "sourceText": "Previous recommendations:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Previous recommendations:</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 22,
+    "sourceText": "Due to the urgency of your change in accommodation the previous decisions are now invalid.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Due to the urgency of your change in accommodation the previous decisions are now invalid.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 23,
+    "sourceText": "Change in circumstances:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Change in circumstances:</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 24,
+    "sourceText": "Due to safeguarding concerns regarding your previous carer the decision was taken to remove you from her care.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Due to safeguarding concerns regarding your previous carer the decision was taken to remove you from her care.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 25,
+    "sourceText": "Update from Sufyan.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Update from Sufyan.</span>",
+    "existingTarget": "Cập nhật từ Sufyan."
+  },
+  {
+    "id": 26,
+    "sourceText": "Sufyan explained, today's meeting is being held because you have recently moved to a new placement, and your care plan needs to be reviewed and updated to reflect your new home.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sufyan explained, today's meeting is being held because you have recently moved to a new placement, and your care plan needs to be reviewed and updated to reflect your new home.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 27,
+    "sourceText": "Sufyan shared, you had moved from Liverpool because of concerns regarding your previous foster carer Ann, Sufyan asked whether you felt more settled now and whether your new home is beginning to feel like you home.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sufyan shared, you had moved from Liverpool because of concerns regarding your previous foster carer Ann, Sufyan asked whether you felt more settled now and whether your new home is beginning to feel like you home.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 28,
+    "sourceText": "Through the interpreter, you indicated \"everything is ok\" for you in your new home.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Through the interpreter, you indicated \"</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">everything is ok\"</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> for you in your new home.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 29,
+    "sourceText": "Sufyan asked you if you are worried about anything relating to the move from Liverpool or what had happened in your previous home, you said \"no\".",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sufyan asked you if you are worried about anything relating to the move from Liverpool or what had happened in your previous home, you said</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> \"no\".</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\">",
+    "existingTarget": ""
+  },
+  {
+    "id": 30,
+    "sourceText": "When asked if there was anything that could be changed or improved about your new home, you said \"no\". Sufyan said that your new home has enabled you to have your own flat and more independence, commenting that this was \"fantastic\" and that you seem ready for the next step.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">When asked if there was anything that could be changed or improved about your new home, you said</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> \"no\". </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Sufyan said that your new home has enabled you to have your own flat and more independence, commenting that this was \"fantastic\" and that you seem ready for the next step.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 31,
+    "sourceText": "Puritan",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Puritan</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 32,
+    "sourceText": "With the support from the Interpreter, Puritan explained her role and that she will arrange to visit you to inform you of your Leaving Care Entitlements, she will also provide you with a translated document regarding the Local offer.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">With the support from the Interpreter, Puritan explained her role and that she will arrange to visit you to inform you of your Leaving Care Entitlements, she will also provide you with a translated document regarding the Local offer.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 33,
+    "sourceText": "Kien, A Local Offer is the package of support and services that a local authority (LA) must publish for its care leavers.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, A Local Offer is the package of support and services that a local authority (LA) must publish for its care leavers.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 34,
+    "sourceText": "It explains both the support care leavers are legally entitled to receive and any additional support the council chooses to provide.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">It explains both the support care leavers are legally entitled to receive and any additional support the council chooses to provide.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 35,
+    "sourceText": "This requirement comes from the Children and Social Work Act 2017.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This requirement comes from the Children and Social Work Act 2017.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 36,
+    "sourceText": "Your home:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Your home:</span>",
+    "existingTarget": "Nhà Của bạn:"
+  },
+  {
+    "id": 37,
+    "sourceText": "Mohammed said you have settled very well, and you have befriended another Vietnamese young person, Nia, who had shown you around Preston.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mohammed said you have settled very well, and you have befriended another Vietnamese young person, Nia, who had shown you around Preston.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 38,
+    "sourceText": "You and Nia go shopping together and often share meals, with either you or Nia cooking.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You and Nia go shopping together and often share meals, with either you or Nia cooking.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 39,
+    "sourceText": "Your support staff have described this this as a good friendship and a positive support for you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Your support staff have described this this as a good friendship and a positive support for you.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 40,
+    "sourceText": "Mohammed shared reported you are managing independently very well, you budget your money effectively, keep your flat clean and you can travel independently, and you regularly visit your friends in Liverpool.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mohammed shared reported you are managing independently very well, you budget your money effectively, keep your flat clean and you can travel independently, and you regularly visit your friends in Liverpool.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 41,
+    "sourceText": "Family Time and time with your friends.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Family Time and time with your friends.</span>",
+    "existingTarget": "Thời gian Gia đình và thời gian với bạn bè của bạn."
+  },
+  {
+    "id": 42,
+    "sourceText": "Kien, you arrived in England without any adults, family or friends.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, you arrived in England without any adults, family or friends.</span>",
+    "existingTarget": "Kiên, bạn đã đến Anh mà không có người lớn, gia đình hay bạn bè nào đi cùng."
+  },
+  {
+    "id": 43,
+    "sourceText": "You wish to remain in contact with your friends in Liverpool.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You wish to remain in contact with your friends in Liverpool.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 44,
+    "sourceText": "Kien, we discussed your regular visits to Liverpool, where you continue to maintain friendships within that area.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, we discussed your regular visits to Liverpool, where you continue to maintain friendships within that area.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 45,
+    "sourceText": "Mohammed shared you travel independently and frequently visit your friends, sometimes several times each week.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mohammed shared you travel independently and frequently visit your friends, sometimes several times each week.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 46,
+    "sourceText": "Kien, you didn't express any concerns about moving from Liverpool or about your previous foster placement.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, you didn't express any concerns about moving from Liverpool or about your previous foster placement.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 47,
+    "sourceText": "You confirmed you haven't had any contact with your former foster carer, Ann, we advised you to inform staff if this changed.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You confirmed you haven't had any contact with your former foster carer, Ann, we advised you to inform staff if this changed.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 48,
+    "sourceText": "Kien, we discussed the importance of keeping staff informed and maintaining regular contact during visits to Liverpool.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, we discussed the importance of keeping staff informed and maintaining regular contact during visits to Liverpool.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 49,
+    "sourceText": "We also reinforced the requirement for you to provide details prior to any requested overnight stays so that appropriate safeguarding assessments and checks can be undertaken.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We also reinforced the requirement for you to provide details prior to any requested overnight stays so that appropriate safeguarding assessments and checks can be undertaken.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 50,
+    "sourceText": "Mohammed said you generally keep in touch and share relevant information; you also cooperate with arrangements to support your safety when away from the placement.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mohammed said you generally keep in touch and share relevant information; you also cooperate with arrangements to support your safety when away from the placement.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 51,
+    "sourceText": "Education:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Education:</span>",
+    "existingTarget": "Giáo dục"
+  },
+  {
+    "id": 52,
+    "sourceText": "Mohammed confirmed you have been enrolled at Preston College, and you are due to attend an assessment on the 17th of August, this will determine the most appropriate level of study for you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mohammed confirmed you have been enrolled at Preston College, and you are due to attend an assessment on the 17</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">th</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> of August, this will determine the most appropriate level of study for you.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 53,
+    "sourceText": "Through ongoing key work sessions, it has been identified that you demonstrate good English reading and writing skills, although you would benefit from further support with spoken English and spelling.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Through ongoing key work sessions, it has been identified that you demonstrate good English reading and writing skills, although you would benefit from further support with spoken English and spelling.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 54,
+    "sourceText": "Mohammed is confident these areas could be developed over the next year.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mohammed is confident these areas could be developed over the next year.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 55,
+    "sourceText": "Mohammed plans are in place to obtain you a library card to support your learning.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mohammed plans are in place to obtain you a library card to support your learning.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 56,
+    "sourceText": "In addition, staff are supporting you to access volunteering opportunities to enhance your skills, confidence and future educational and employment prospects.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">In addition, staff are supporting you to access volunteering opportunities to enhance your skills, confidence and future educational and employment prospects.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 57,
+    "sourceText": "Kien, you didn't express any concerns regarding your education, when asked specifically whether you are worried about starting college, you said \"no\". stated that he was not.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, you didn't express any concerns regarding your education, when asked specifically whether you are worried about starting college, you said </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">\"no\".</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> stated that he was not.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 58,
+    "sourceText": "Kien, you appear comfortable with the plans for your education and did not raise any issues or request any additional support",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, you appear comfortable with the plans for your education and did not raise any issues or request any additional support</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 59,
+    "sourceText": "Pupil Education Plan – Kien, this is sometimes referred to as PEP.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Pupil Education Plan –</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> Kien, this is sometimes referred to as PEP.</span>",
+    "existingTarget": "Kế hoạch Giáo dục Của học sinh - Kien, đôi khi nó được gọi là kế hoạch giáo dục cá nhân."
+  },
+  {
+    "id": 60,
+    "sourceText": "Kien, due to you being a looked after child, you are entitled to further support to help you achieve your academic targets.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, due to you being a looked after child, you are entitled to further support to help you achieve your academic targets.</span>",
+    "existingTarget": "Kien, do bạn là trẻ được chăm sóc, bạn có quyền được hỗ trợ thêm để giúp bạn đạt được các mục tiêu trong học tập của bạn."
+  },
+  {
+    "id": 61,
+    "sourceText": "You have a current PEP; a new PEP is required in September.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You have a current PEP; a new PEP is required in September.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 62,
+    "sourceText": "Pupil Premium: Kien this is financial support from the local authority to your school to support your education, this can be used several ways and will be discussed and recorded at your PEP meeting.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Pupil Premium:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> Kien this is financial support from the local authority to your school to support your education, this can be used several ways and will be discussed and recorded at your PEP meeting.</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\">",
+    "existingTarget": "Trợ cấp cho Học sinh: Kien, đây là sự hỗ trợ về tài chính từ chính quyền địa phương dành cho trường của bạn để hỗ trợ việc học tập của bạn, nó có thể được sử dụng theo một vài cách và sẽ được thảo luận và ghi chép lại trong cuộc họp kế hoạch giáo dục cá nhân của bạn."
+  },
+  {
+    "id": 63,
+    "sourceText": "We discussed the incentives the college provides such as a payment of £18.00 per week if you have 90% attendance, your college will also fund a bus pass and provide you with £4.50 towards your lunch which is linked to your college ID card.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We discussed the incentives the college provides such as a payment of £18.00 per week if you have 90% attendance, your college will also fund a bus pass and provide you with £4.50 towards your lunch which is linked to your college ID card.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 64,
+    "sourceText": "Health.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Health.</span>",
+    "existingTarget": "Sức khỏe."
+  },
+  {
+    "id": 65,
+    "sourceText": "Kien, as a Looked After Child you require an annual health assessment, you last assessment was completed on the 20th of March 2026, I have had sight of this assessment, there are no concerns regarding your health or development.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, as a Looked After Child you require an annual health assessment, you last assessment was completed on the 20th of March 2026, I have had sight of this assessment, there are no concerns regarding your health or development.</span>",
+    "existingTarget": "Kiên, với tư cách là một trẻ được chăm sóc, bạn cần thực hiện đánh giá sức khỏe hàng năm; lần đánh giá cuối cùng của bạn đã được hoàn thành vào ngày 20 tháng 3 năm 2026. Tôi đã xem xét đánh giá này và không có bất kỳ mối quan ngại nào về sức khỏe hoặc sự phát triển của bạn."
+  },
+  {
+    "id": 66,
+    "sourceText": "Kien, you informed you are in good health, and you don't have any concerns regarding your physical health or development.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, you informed you are in good health, and you don't have any concerns regarding your physical health or development.</span>",
+    "existingTarget": "Kien, bạn cho biết bạn có sức khỏe tốt, và bạn không có bất kỳ lo ngại nào về sức khỏe hoặc sự phát triển thể chất của mình."
+  },
+  {
+    "id": 67,
+    "sourceText": "You are registered with the following health services:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You are registered with the following health services:</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 68,
+    "sourceText": "GP: Issa Medical Practice you have had your initial check-up; no concerns have been identified.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">GP: Issa Medical Practice you have had your initial check-up; no concerns have been identified.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 69,
+    "sourceText": "Dentist: Rose Gold Dental.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dentist: Rose Gold Dental.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 70,
+    "sourceText": "You attended a dental check-up on 10th of July, and the only issue identified was a need for some sealing on your teeth.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You attended a dental check-up on 10</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">th</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> of July, and the only issue identified was a need for some sealing on your teeth.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 71,
+    "sourceText": "A follow-up appointment was arranged for 4 August.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">A follow-up appointment was arranged for 4 August.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 72,
+    "sourceText": "Optician: Clarity Optical.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Optician: Clarity Optical.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 73,
+    "sourceText": "You attended an eye test on the 3rd of July, where everything was reported to be fine, and your next appointment is booked for a year's time.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You attended an eye test on the 3</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">rd</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> of July, where everything was reported to be fine, and your next appointment is booked for a year's time.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 74,
+    "sourceText": "Identity:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Identity:</span>",
+    "existingTarget": "Danh tính:"
+  },
+  {
+    "id": 75,
+    "sourceText": "Kien, you have informed your family are from Vietnam, your parents are alive, but you are not aware of where they are living.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, you have informed your family are from Vietnam, your parents are alive, but you are not aware of where they are living.</span>",
+    "existingTarget": "Kien, bạn cho biết gia đình bạn đến từ Việt Nam, cha mẹ bạn đang còn sống nhưng bạn không biết họ đang sống ở đâu."
+  },
+  {
+    "id": 76,
+    "sourceText": "Kien, you have informed Sufyan you no longer want to engage with The Red Cross service regarding making enquiries about your biological family.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, you have informed Sufyan you no longer want to engage with The Red Cross service regarding making enquiries about your biological family.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 77,
+    "sourceText": "Kien, staff will keep photographs and memory items which will contribute to your Later in Life letter.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, staff will keep photographs and memory items which will contribute to your Later in Life letter.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 78,
+    "sourceText": "Virtual Memory Box/Life story book.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Virtual Memory Box/Life story book.</span>",
+    "existingTarget": "Hộp nhớ ảo/Sách câu chuyện đời."
+  },
+  {
+    "id": 79,
+    "sourceText": "You have a virtual memory box in place; however, staff will need support to access this so that photos and important information about you can be uploaded and preserved.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You have a virtual memory box in place; however, staff will need support to access this so that photos and important information about you can be uploaded and preserved.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 80,
+    "sourceText": "This will help ensure your life story is recorded and accessible to you in the future.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This will help ensure your life story is recorded and accessible to you in the future.</span>",
+    "existingTarget": "Điều này sẽ giúp đảm bảo câu chuyện đời của bạn được ghi lại và có thể truy cập được trong tương lai."
+  },
+  {
+    "id": 81,
+    "sourceText": "Staff will need to have access to this.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Staff will need to have access to this.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 82,
+    "sourceText": "Hobbies / Activities.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Hobbies / Activities.</span>",
+    "existingTarget": "Sở thích / Hoạt động."
+  },
+  {
+    "id": 83,
+    "sourceText": "Kien, you like to socialise with your friends, you have declined to be part of the football team, but you have joined in with group activities.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, you like to socialise with your friends, you have declined to be part of the football team, but you have joined in with group activities.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 84,
+    "sourceText": "Your wishes and feelings:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Your wishes and feelings:</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 85,
+    "sourceText": "Kien, with support of the interpreter throughout your review, you had opportunities to share your wishes and feelings.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, with support of the interpreter throughout your review, you had opportunities to share your wishes and feelings.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 86,
+    "sourceText": "You advised you have nothing specific to raise and consistently expressed you are happy with your current circumstances.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You advised you have nothing specific to raise and consistently expressed you are happy with your current circumstances.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 87,
+    "sourceText": "You stated everything is going well in your new home and you didn't identify any concerns or changes you would like to see.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You stated everything is going well in your new home and you didn't identify any concerns or changes you would like to see.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 88,
+    "sourceText": "You shared you are not worried about moving from Liverpool or the reasons for the placement change and confirmed you have no concerns about starting your new college.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You shared you are not worried about moving from Liverpool or the reasons for the placement change and confirmed you have no concerns about starting your new college.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 89,
+    "sourceText": "Finances:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Finances:</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 90,
+    "sourceText": "You have a current bank account with Barclay's bank, Sufyan has agreed to contact your previous carer's supervising social worker to request the refund of any savings.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You have a current bank account with Barclay's bank, Sufyan has agreed to contact your previous carer's supervising social worker to request the refund of any savings.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 91,
+    "sourceText": "Views of carers:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Views of carers:</span>",
+    "existingTarget": "Quan điểm của người chăm sóc:"
+  },
+  {
+    "id": 92,
+    "sourceText": "Mohammed reports you have settled very well into your new home, you are making positive progress.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mohammed reports you have settled very well into your new home, you are making positive progress.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 93,
+    "sourceText": "Support staff will continue to work alongside you to further develop your independent living skills and prepare you for adulthood.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Support staff will continue to work alongside you to further develop your independent living skills and prepare you for adulthood.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 94,
+    "sourceText": "This will include ongoing support with managing finances, budgeting, maintaining your accommodation, accessing community resources, and developing your confidence in making safe and informed decisions.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This will include ongoing support with managing finances, budgeting, maintaining your accommodation, accessing community resources, and developing your confidence in making safe and informed decisions.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 95,
+    "sourceText": "Staff will also support you to attend and engage positively with college, encouraging regular attendance and help you to achieve your educational goals.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Staff will also support you to attend and engage positively with college, encouraging regular attendance and help you to achieve your educational goals.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 96,
+    "sourceText": "In addition, you will be supported to access volunteering, training and other opportunities that will enhance your life skills, build your confidence and help you work towards your future aspirations and long-term goals.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">In addition, you will be supported to access volunteering, training and other opportunities that will enhance your life skills, build your confidence and help you work towards your future aspirations and long-term goals.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 97,
+    "sourceText": "Views of those with Parental Responsibility:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Views of those with Parental Responsibility:</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 98,
+    "sourceText": "Kien, due to you arriving in the United Kingdom without any adults, the UK law grants the local authority rights to make decisions for you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, due to you arriving in the United Kingdom without any adults, the UK law grants the local authority rights to make decisions for you.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 99,
+    "sourceText": "Views of the IRO / Evidence of Challenge –",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Views of the IRO / Evidence of Challenge –</span>",
+    "existingTarget": "Quan điểm của cán bộ đánh giá độc lập / Bằng chứng về Thách thức -"
+  },
+  {
+    "id": 100,
+    "sourceText": "Kien, thank you for attending your meeting.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, thank you for attending your meeting.</span>",
+    "existingTarget": "Kiên, cảm ơn vì đã tham dự cuộc họp của bạn."
+  },
+  {
+    "id": 101,
+    "sourceText": "As your Independent Reviewing Officer, my summary of this review is that you are continuing to make very positive progress across all areas of your life.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">As your Independent Reviewing Officer, my summary of this review is that you are continuing to make very positive progress across all areas of your life.</span>",
+    "existingTarget": "Là Cán bộ Đánh giá Độc lập của bạn, tóm tắt của cuộc đánh giá này là bạn đang tiếp tục có những tiến bộ rất tích cực trong mọi lĩnh vực của cuộc sống."
+  },
+  {
+    "id": 102,
+    "sourceText": "You are settled in your new home, where your needs are being consistently met, and there are no safeguarding concerns.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You are settled in your new home, where your needs are being consistently met, and there are no safeguarding concerns.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 103,
+    "sourceText": "The placement is stable, and you benefit from a supportive and nurturing home environment which is helping you to develop your independence and routine.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The placement is stable, and you benefit from a supportive and nurturing home environment which is helping you to develop your independence and routine.</span>",
+    "existingTarget": "Nơi ở ổn định và bạn được hưởng lợi từ môi trường gia đình hỗ trợ và nuôi dưỡng, giúp bạn phát triển sự độc lập và thói quen."
+  },
+  {
+    "id": 104,
+    "sourceText": "There are, however, some areas requiring continued focus, most notably your immigration status.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">There are, however, some areas requiring continued focus, most notably your immigration status.</span>",
+    "existingTarget": "Tuy nhiên, có một số lĩnh vực cần tiếp tục tập trung, trong đó nổi bật nhất là tình trạng nhập cư của bạn."
+  },
+  {
+    "id": 105,
+    "sourceText": "Progress with your asylum claim has been delayed due to poor input from your current solicitor.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Progress with your asylum claim has been delayed due to poor input from your current solicitor.</span>",
+    "existingTarget": "Tiến độ yêu cầu tị nạn của bạn đã bị chậm trễ do thông tin không đầy đủ từ luật sư hiện tại của bạn."
+  },
+  {
+    "id": 106,
+    "sourceText": "This is an area of concern given your age, and I am reassured that action has been taken to refer you to a new solicitor to ensure that your case progresses in a timely way.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This is an area of concern given your age, and I am reassured that action has been taken to refer you to a new solicitor to ensure that your case progresses in a timely way.</span>",
+    "existingTarget": "Đây là một vấn đề đáng quan ngại do tuổi của bạn, và tôi yên tâm rằng đã có hành động được thực hiện để giới thiệu bạn cho một luật sư mới nhằm đảm bảo vụ việc của bạn tiến triển kịp thời."
+  },
+  {
+    "id": 107,
+    "sourceText": "This will remain an important priority moving forward.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This will remain an important priority moving forward.</span>",
+    "existingTarget": "Điều này sẽ vẫn là một ưu tiên quan trọng trong thời gian tới."
+  },
+  {
+    "id": 108,
+    "sourceText": "You are developing your independence skills well, including managing your personal care, keeping your space tidy, and beginning to understand financial responsibility.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You are developing your independence skills well, including managing your personal care, keeping your space tidy, and beginning to understand financial responsibility.</span>",
+    "existingTarget": "Bạn đang phát triển tốt các kỹ năng tự lập, bao gồm việc quản lý chăm sóc cá nhân, giữ không gian gọn gàng và bắt đầu hiểu trách nhiệm tài chính."
+  },
+  {
+    "id": 109,
+    "sourceText": "Your health needs are being met, with no current concerns identified.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Your health needs are being met, with no current concerns identified.</span>",
+    "existingTarget": "Nhu cầu sức khỏe của bạn đang được đáp ứng, hiện không có mối quan ngại nào được xác định."
+  },
+  {
+    "id": 110,
+    "sourceText": "Additional areas such as your virtual memory box and life story work require some further attention, particularly in supporting your support staff to contribute to this.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Additional areas such as your virtual memory box and life story work require some further attention, particularly in supporting your support staff to contribute to this.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 111,
+    "sourceText": "Overall, this is a very positive review, with clear evidence that you are thriving in your placement and education.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Overall, this is a very positive review, with clear evidence that you are thriving in your placement and education.</span>",
+    "existingTarget": "Nhìn chung, đây là một đánh giá rất tích cực, với bằng chứng rõ ràng cho thấy bạn đang phát triển mạnh mẽ trong môi trường sắp xếp và việc học."
+  },
+  {
+    "id": 112,
+    "sourceText": "The key priorities moving forward are to progress your immigration status, continue planning for your transition to adulthood, and ensure that all supportive work continues in a timely and coordinated way.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The key priorities moving forward are to progress your immigration status, continue planning for your transition to adulthood, and ensure that all supportive work continues in a timely and coordinated way.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 113,
+    "sourceText": "I agree your care plan.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I agree your care plan.</span>",
+    "existingTarget": "Tôi đồng ý với kế hoạch chăm sóc của bạn."
+  },
+  {
+    "id": 114,
+    "sourceText": "I look forward to seeing you again soon.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I look forward to seeing you again soon.</span>",
+    "existingTarget": "Tôi mong đợi sớm gặp lại bạn."
+  },
+  {
+    "id": 115,
+    "sourceText": "Kien, I will request your meeting minutes to be translated into your preferred language to ensure you fully understand the discussions, decisions, and plans made regarding your care and support.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, I will request your meeting minutes to be translated into your preferred language to ensure you fully understand the discussions, decisions, and plans made regarding your care and support.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 116,
+    "sourceText": "This will enable you to access the information in a format that is meaningful to you, promote your participation in your care planning process, and ensure you are aware of the arrangements relating to your accommodation, education, health, finances, legal matters, and family contact.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This will enable you to access the information in a format that is meaningful to you, promote your participation in your care planning process, and ensure you are aware of the arrangements relating to your accommodation, education, health, finances, legal matters, and family contact.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 117,
+    "sourceText": "A translated copy of the minutes will be provided to support your understanding and allow you to refer to the information discussed during your review meeting.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">A translated copy of the minutes will be provided to support your understanding and allow you to refer to the information discussed during your review meeting.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 118,
+    "sourceText": "Review Decisions:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Review Decisions:</span>",
+    "existingTarget": "Quyết định Của cuộc đánh giá:"
+  },
+  {
+    "id": 119,
+    "sourceText": "These are the decisions from your review meeting held on the 29th of July 2026 at your home.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">These are the decisions from your review meeting held on the 29</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">th</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> of July 2026 at your home.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 120,
+    "sourceText": "Kien, your legal status and current plan meet your needs.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, your legal status and current plan meet your needs.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 121,
+    "sourceText": "1.Sufyan has agreed to arrange a Pupil Education Planning meeting (PEP) to be completed within three weeks of your September term in college.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">1.Sufyan has agreed to arrange a Pupil Education Planning meeting (PEP) to be completed within three weeks of your September term in college.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 122,
+    "sourceText": "2. Puritan your Leaving Care Advisor to arrange to visit you with the support of an Interpreter to inform you of your Leaving Care Entitlements – to be completed prior to the next review meeting.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">2. Puritan your Leaving Care Advisor to arrange to visit you with the support of an Interpreter to inform you of your Leaving Care Entitlements – to be completed prior to the next review meeting.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 123,
+    "sourceText": "3. Sufyan has agreed to contact your previous social worker's fostering agency with a view to request your savings balance – to be completed within two weeks.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">3. Sufyan has agreed to contact your previous social worker's fostering agency with a view to request your savings balance – to be completed within two weeks.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 124,
+    "sourceText": "4. Mohammed (support worker) has agreed to provide Puritan with an update regarding if you are successful in securing volunteering work – ongoing.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">4. Mohammed (support worker) has agreed to provide Puritan with an update regarding if you are successful in securing volunteering work – ongoing.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 125,
+    "sourceText": "5. Kien you have agreed to inform your support staff of the names, addresses and contact details of who you visit in Liverpool.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">5. Kien you have agreed to inform your support staff of the names, addresses and contact details of who you visit in Liverpool.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 126,
+    "sourceText": "You have also agreed to keep in regular contact with staff, this will include video calls - ongoing.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You have also agreed to keep in regular contact with staff, this will include video calls - ongoing.</span>",
+    "existingTarget": ""
+  },
+  {
+    "id": 127,
+    "sourceText": "As your Independent Reviewing Officer (IRO), I should be informed promptly of any proposed or actual changes to your care plan, to ensure appropriate oversight and that your needs, safety, and welfare remain central to all decision-making.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">As your Independent Reviewing Officer (IRO), I should be informed promptly of any proposed or actual changes to your care plan, to ensure appropriate oversight and that your needs, safety, and welfare remain central to all decision-making.</span>",
+    "existingTarget": "Với vai trò là Nhân viên Đánh giá Độc lập (IRO) của bạn, tôi cần được thông báo kịp thời về bất kỳ thay đổi nào được đề xuất hoặc thực tế đối với kế hoạch chăm sóc của bạn, để đảm bảo giám sát thích hợp và rằng nhu cầu, an toàn và phúc lợi của bạn vẫn là trung tâm của mọi quyết định."
+  },
+  {
+    "id": 128,
+    "sourceText": "Kien, you agreed to attend your next review meeting that is scheduled to take place on the 13th of October 2026 at your home at 1:30pm, this is open to change as we are not aware of your next college timetable.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Kien, you agreed to attend your next review meeting that is scheduled to take place on the 13</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">th</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=ce99e0ee2d93443e9b589c70703c016a&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> of October 2026 at your home at 1:30pm, this is open to change as we are not aware of your next college timetable.</span>",
+    "existingTarget": ""
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": "1",
+    "sourceText": "This is to confirm your appointment with the Perinatal Mental Health Team on the 27th of August at 1pm with Dr Abhilasha Sharma.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This is to confirm your appointment with the Perinatal Mental Health Team on the 27</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=eb702e023d6c40faa865adafe3acef47&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">th</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=eb702e023d6c40faa865adafe3acef47&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> of August at 1pm with Dr Abhilasha Sharma.</span>",
+    "targetText": "Thư này xác nhận cuộc hẹn của bạn với Đội ngũ Sức khỏe Tâm thần Perinatal vào ngày 27 tháng 8 lúc 1 pm với bác sĩ Abhilasha Sharma.  1pm 27"
+  },
+  "2": {
+    "id": "2",
+    "sourceText": "This will be on MS Teams.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This will be on MS Teams.</span>",
+    "targetText": "Buổi hẹn sẽ được tổ chức trên MS Teams."
+  },
+  "3": {
+    "id": "3",
+    "sourceText": "This is the link for your appointment https://teams.microsoft.com/meet/325029145788170?p=eIpiPlofwBVYSAN8zo Please ensure you check the link works ahead of the appointment.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This is the link for your appointment </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=eb702e023d6c40faa865adafe3acef47&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">https://teams.microsoft.com/meet/325029145788170?p=eIpiPlofwBVYSAN8zo</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=eb702e023d6c40faa865adafe3acef47&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> Please ensure you check the link works ahead of the appointment.</span>",
+    "targetText": "Đây là liên kết cho cuộc hẹn của bạn https://teams.microsoft.com/meet/325029145788170?p=eIpiPlofwBVYSAN8zo Vui lòng đảm bảo bạn kiểm tra liên kết trước cuộc hẹn.  https://teams.microsoft.com/meet/325029145788170?p=eIpiPlofwBVYSAN8zo"
+  },
+  "4": {
+    "id": "4",
+    "sourceText": "We are available Monday to Friday 9-5 on 01249 767851 (except bank holidays).",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We are available Monday to Friday 9-5 on 01249 767851 (except bank holidays).</span>",
+    "targetText": "Chúng tôi làm việc từ Thứ Hai đến Thứ Sáu, từ 9 giờ sáng đến 5 giờ chiều qua số 01249 767851 (ngoại trừ các ngày lễ)."
+  },
+  "5": {
+    "id": "5",
+    "sourceText": "Please call if you are unable to make this appointment and we can rearrange.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Please call if you are unable to make this appointment and we can rearrange.</span>",
+    "targetText": "Vui lòng gọi điện nếu bạn không thể đến cuộc hẹn này và chúng tôi có thể sắp xếp lại."
+  },
+  "6": {
+    "id": "6",
+    "sourceText": "For out of hours support please call 111-2.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">For out of hours support please call 111-2.</span>",
+    "targetText": "Để được hỗ trợ ngoài giờ làm việc, vui lòng gọi 111-2."
+  }
+}

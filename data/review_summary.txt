@@ -1,0 +1,380 @@
+[Segment 1] Status: MT
+  SRC: Begin Address Placeholder - DO NOT MODIFY
+  TGT: Bắt đầu địa chỉ Placeholder - KHÔNG CHỈNH SỬA
+  HTML: <span class="text-node" data-text-node="true">Begin Address Placeholder - DO NOT MODIFY</span>
+
+[Segment 2] Status: M
+  SRC: [Recipient name]
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">[Recipient name]</span>
+
+[Segment 3] Status: MT
+  SRC: [Address line]
+  TGT: [Dòng địa chỉ]
+  HTML: <span class="text-node" data-text-node="true">[Address line]</span>
+
+[Segment 4] Status: MT
+  SRC: [Town/City]
+  TGT: [Thị trấn/Thành phố]
+  HTML: <span class="text-node" data-text-node="true">[Town/City]</span>
+
+[Segment 5] Status: MT
+  SRC: [County]
+  TGT: [Quận]
+  HTML: <span class="text-node" data-text-node="true">[County]</span>
+
+[Segment 6] Status: MT
+  SRC: [Country]
+  TGT: [Quốc gia]
+  HTML: <span class="text-node" data-text-node="true">[Country]</span>
+
+[Segment 7] Status: MT
+  SRC: [Postcode] [District]
+  TGT: [Mã bưu điện] [Quận]
+  HTML: <span class="text-node" data-text-node="true">[Postcode] [District]</span>
+
+[Segment 8] Status: MT
+  SRC: End Address Placeholder - DO NOT MODIFY
+  TGT: Địa chỉ cuối - KHÔNG CHỈNH
+  HTML: <span class="text-node" data-text-node="true">End Address Placeholder - DO NOT MODIFY</span>
+
+[Segment 9] Status: M
+  SRC: Evelina London Children's Hospital
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Evelina London Children's Hospital</span>
+
+[Segment 10] Status: MT
+  SRC: Westminster Bridge Road
+  TGT: Đường Westminster Bridge
+  HTML: <span class="text-node" data-text-node="true">Westminster Bridge Road</span>
+
+[Segment 11] Status: 100%
+  SRC: London
+  TGT: London
+  HTML: <span class="text-node" data-text-node="true">London</span>
+
+[Segment 12] Status: MT
+  SRC: SE1 7EH
+  TGT: SE1 7EH
+  HTML: <span class="text-node" data-text-node="true">SE1 7EH</span>
+
+[Segment 13] Status: MT
+  SRC: Appointment Date: Wednesday 5 August 2026
+  TGT: Ngày hẹn: Thứ Tư, 5 tháng 8 năm 2026
+  HTML: <span class="text-node" data-text-node="true">Appointment Date: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">Wednesday 5 August 2026</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 14] Status: M
+  SRC: Printed On: 5 August 2026
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Printed On: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">5 August 2026</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 15] Status: 100%
+  SRC: Patient Details
+  TGT: Thông tin về Bệnh nhân
+  HTML: <span class="text-node" data-text-node="true">Patient Details</span>
+
+[Segment 16] Status: M
+  SRC: Name: Nguyen, Thi Linh
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Name: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">Nguyen, Thi Linh</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 17] Status: M
+  SRC: DOB: 19/8/1982
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">DOB: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">19/8/1982 </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 18] Status: M
+  SRC: NHS No: 735 723 4886 Hospital No: 40117002
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">NHS No: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">735 723 4886 </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">Hospital No: </span><img class="inline" data-inline-id="2" data-inline-type="G" aria-label="{2}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2"><span class="text-node" data-text-node="true">40117002</span><img class="inline" data-inline-id="2" data-inline-type="G" aria-label="{2}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2">
+
+[Segment 19] Status: MT
+  SRC: Address: 25 Glenside Avenue CANTERBURY CT1 1DB
+  TGT: Địa chỉ: 25 Đại lộ Glenside CANTERBURY CT1 1DB
+  HTML: <span class="text-node" data-text-node="true">Address: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">25 Glenside Avenue CANTERBURY CT1 1DB</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 20] Status: M
+  SRC: Phone: 07869 696912
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Phone:</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true"> 07869 696912</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 21] Status: M
+  SRC: Dept: Evelina Paediatric Palliative Care
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Dept:</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true"> Evelina Paediatric Palliative Care</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 22] Status: MT
+  SRC: Dept Tel: 020 7188 7188 x53278
+  TGT: SĐT bộ phận: 020 7188 7188 x53278
+  HTML: <span class="text-node" data-text-node="true">Dept Tel: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">020 7188 7188 x53278</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 23] Status: MT
+  SRC: Dept Email: gstt.paediatricpalliative@nhs.net
+  TGT: Email phòng ban: gstt.paediatricpalliative@nhs.net
+  HTML: <span class="text-node" data-text-node="true">Dept Email: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">gstt.paediatricpalliative@nhs.net</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 24] Status: M
+  SRC: Seen / Reviewed by: Diana Freitas
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Seen / Reviewed by: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">Diana Freitas</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 25] Status: 100%
+  SRC: GP Information
+  TGT: Thông tin về Bác sỹ đa khoa
+  HTML: <span class="text-node" data-text-node="true">GP Information</span>
+
+[Segment 26] Status: MT
+  SRC: NORTHGATE MEDICAL PRACTICE
+  TGT: PHÒNG KHÁM Y TẾ NORTHGATE
+  HTML: <span class="text-node" data-text-node="true">NORTHGATE MEDICAL PRACTICE</span>
+
+[Segment 27] Status: M
+  SRC: 1 NORTHGATE
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">1 NORTHGATE</span>
+
+[Segment 28] Status: MT
+  SRC: CANTERBURY
+  TGT: CANTERBURY
+  HTML: <span class="text-node" data-text-node="true">CANTERBURY</span>
+
+[Segment 29] Status: MT
+  SRC: KENT
+  TGT: KENT
+  HTML: <span class="text-node" data-text-node="true">KENT</span>
+
+[Segment 30] Status: MT
+  SRC: CT1 1WL
+  TGT: CT1 1WL
+  HTML: <span class="text-node" data-text-node="true">CT1 1WL</span>
+
+[Segment 31] Status: 100%
+  SRC: Primary Recipient:
+  TGT: Người nhận Chính:
+  HTML: <span class="text-node" data-text-node="true">Primary Recipient:</span>
+
+[Segment 32] Status: MT
+  SRC: Mrs. Thi Linh NGUYEN
+  TGT: Bà Thi Linh NGUYEN
+  HTML: <span class="text-node" data-text-node="true">Mrs. Thi Linh NGUYEN</span>
+
+[Segment 33] Status: MT
+  SRC: Via MyChart
+  TGT: Thông qua MyChart
+  HTML: <span class="text-node" data-text-node="true">Via MyChart</span>
+
+[Segment 34] Status: M
+  SRC: Dear
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Dear</span>
+
+[Segment 35] Status: MT
+  SRC: Thi Linh,
+  TGT: Thi Linh,
+  HTML: <span class="text-node" data-text-node="true">Thi Linh,</span>
+
+[Segment 36] Status: MT
+  SRC: It was a pleasure for me, CNS Diana Freitas, from the Paediatric Palliative Care team to meet you, alongside Foetal Cardiologist Dr Vigneswaran and CNS Daifenir de la Cruz, on the 5th of August 2026.
+  TGT: Tôi, CNS Diana Freitas, thuộc đội ngũ Chăm sóc giảm nhẹ nhi khoa, rất vui được gặp bạn vào ngày 5 tháng 8 năm 2026, cùng với bác sĩ tim mạch thai nhi, Tiến sĩ Vigneswaran và CNS Daifenir de la Cruz.
+  HTML: <span class="text-node" data-text-node="true">It was a pleasure for me, CNS Diana Freitas, from the Paediatric Palliative Care team to meet you, alongside Foetal Cardiologist Dr Vigneswaran and CNS Daifenir de la Cruz, on the 5th of August 2026.</span>
+
+[Segment 37] Status: MT
+  SRC: The aim for this meeting was to explain about our services and how the team can support you and your baby girl, in view of her antenatal diagnosis of Trisomy 18 and congenital heart condition.
+  TGT: Mục đích của buổi họp này là giải thích về các dịch vụ của chúng tôi và cách đội ngũ có thể hỗ trợ bạn và bé gái của bạn, dựa trên chẩn đoán tiền sinh của bé về hội chứng Trisomy 18 và bệnh tim bẩm sinh.
+  HTML: <span class="text-node" data-text-node="true">The aim for this meeting was to explain about our services and how the team can support you and your baby girl, in view of her antenatal diagnosis of Trisomy 18 and congenital heart condition.</span>
+
+[Segment 38] Status: MT
+  SRC: We talked about the paediatric palliative care service based at the Evelina hospital and how our team can support you.
+  TGT: Chúng tôi đã thảo luận về dịch vụ chăm sóc giảm nhẹ nhi khoa tại bệnh viện Evelina và cách đội ngũ của chúng tôi có thể hỗ trợ bạn.
+  HTML: <span class="text-node" data-text-node="true">We talked about the paediatric palliative care service based at the Evelina hospital and how our team can support you.</span>
+
+[Segment 39] Status: MT
+  SRC: We are a specialist team of Consultants, Clinical Nurse Specialists (CNS) and clinical fellows.
+  TGT: Chúng tôi là một đội ngũ chuyên gia bao gồm các bác sĩ chuyên khoa, Chuyên gia Điều dưỡng Lâm sàng (CNS) và các bác sĩ nội trú.
+  HTML: <span class="text-node" data-text-node="true">We are a specialist team of Consultants, Clinical Nurse Specialists (CNS) and clinical fellows.</span>
+
+[Segment 40] Status: MT
+  SRC: We aim to support children with life-limiting conditions and their families, wherever they are being cared for – in hospital and in the community.
+  TGT: Chúng tôi hướng đến việc hỗ trợ trẻ em với các tình trạng giới hạn cuộc sống và gia đình của chúng, bất kể họ được chăm sóc ở đâu – trong bệnh viện và trong cộng đồng.
+  HTML: <span class="text-node" data-text-node="true">We aim to support children with life-limiting conditions and their families, wherever they are being cared for – in hospital and in the community.</span>
+
+[Segment 41] Status: MT
+  SRC: We work closely alongside the GSTT Paediatric Cardiology team and the William Harvey Hospital Neonatal team.
+  TGT: Chúng tôi làm việc chặt chẽ cùng đội Tim mạch Nhi khoa GSTT và đội Neonatal của Bệnh viện William Harvey.
+  HTML: <span class="text-node" data-text-node="true">We work closely alongside the GSTT Paediatric Cardiology team and the William Harvey Hospital Neonatal team.</span>
+
+[Segment 42] Status: MT
+  SRC: We have three main roles:
+  TGT: Chúng tôi có ba vai trò chính:
+  HTML: <span class="text-node" data-text-node="true">We have three main roles:</span>
+
+[Segment 43] Status: MT
+  SRC: Advanced Care Planning – supporting you in making decisions for your baby girl, understanding what your goals of care are and how these can be achieved.
+  TGT: Kế hoạch chăm sóc nâng cao – hỗ trợ bạn trong việc đưa ra quyết định cho bé gái của bạn, hiểu mục tiêu chăm sóc của bạn là gì và cách đạt được chúng.
+  HTML: <span class="text-node" data-text-node="true">Advanced Care Planning – supporting you in making decisions for your baby girl, understanding what your goals of care are and how these can be achieved.</span>
+
+[Segment 44] Status: MT
+  SRC: Symptom management – In conjunction with an advance care plan, we can provide a symptom management plan to ensure your baby girl is as comfortable as possible by managing any distressing symptoms.
+  TGT: Kết hợp với kế hoạch chăm sóc trước, chúng tôi có thể cung cấp một kế hoạch quản lý triệu chứng để đảm bảo bé gái của bạn cảm thấy thoải mái nhất có thể bằng cách quản lý bất kỳ triệu chứng gây khó chịu nào.
+  HTML: <span class="text-node" data-text-node="true">Symptom management – In conjunction with an advance care plan, we can provide a symptom management plan to ensure your baby girl is as comfortable as possible by managing any distressing symptoms.</span>
+
+[Segment 45] Status: MT
+  SRC: End of life care – we discussed that we don't know for how long your baby girl will survive, and we will also offer support when she nears her end of life.
+  TGT: Chăm sóc cuối đời – chúng tôi đã thảo luận rằng chúng tôi không biết con gái của bạn sẽ sống được bao lâu, và chúng tôi cũng sẽ cung cấp hỗ trợ khi cô bé gần đến giai đoạn cuối đời.
+  HTML: <span class="text-node" data-text-node="true">End of life care – we discussed that we don't know for how long your baby girl will survive, and we will also offer support when she nears her end of life.</span>
+
+[Segment 46] Status: MT
+  SRC: Thi, you kindly shared you live with your husband and you have 5 children.
+  TGT: Thi, cô đã tử tế chia sẻ rằng cô sống với chồng và có 5 đứa con.
+  HTML: <span class="text-node" data-text-node="true">Thi, you kindly shared you live with your husband and you have 5 children.</span>
+
+[Segment 47] Status: MT
+  SRC: You have been in the UK for 2 years, but don't yet have a work permit.
+  TGT: Bạn đã ở Anh được 2 năm, nhưng vẫn chưa có giấy phép lao động.
+  HTML: <span class="text-node" data-text-node="true">You have been in the UK for 2 years, but don't yet have a work permit.</span>
+
+[Segment 48] Status: MT
+  SRC: We discussed about referral to Demelza.
+  TGT: Chúng tôi đã thảo luận về việc giới thiệu tới Demelza.
+  HTML: <span class="text-node" data-text-node="true">We discussed about referral to Demelza.</span>
+
+[Segment 49] Status: MT
+  SRC: Children's hospices are centres for complex and life limited children, staffed by nurses with support from local GP and our specialist team.
+  TGT: Các trung tâm dưỡng trẻ em là các cơ sở dành cho trẻ em có bệnh phức tạp và thời gian sống hạn chế, được nhân viên y tá chăm sóc, với sự hỗ trợ từ bác sĩ gia đình địa phương và đội ngũ chuyên gia của chúng tôi.
+  HTML: <span class="text-node" data-text-node="true">Children's hospices are centres for complex and life limited children, staffed by nurses with support from local GP and our specialist team.</span>
+
+[Segment 50] Status: MT
+  SRC: They are a great source of support for the whole family.
+  TGT: Họ là một nguồn hỗ trợ tuyệt vời cho cả gia đình.
+  HTML: <span class="text-node" data-text-node="true">They are a great source of support for the whole family.</span>
+
+[Segment 51] Status: MT
+  SRC: Thi you have kindly verbally consented for referral to Demelza.
+  TGT: Bạn Thi đã vui lòng đồng ý bằng lời cho việc giới thiệu tới Demelza.
+  HTML: <span class="text-node" data-text-node="true">Thi you have kindly verbally consented for referral to Demelza.</span>
+
+[Segment 52] Status: MT
+  SRC: The antenatal plan is for the birth to be in William Harvey Hospital.
+  TGT: Kế hoạch trước sinh là sinh tại Bệnh viện William Harvey.
+  HTML: <span class="text-node" data-text-node="true">The antenatal plan is for the birth to be in William Harvey Hospital.</span>
+
+[Segment 53] Status: MT
+  SRC: Depending on the condition of your baby girl after birth, if she is stable, the local team may do an assessment and cardiac echo.
+  TGT: Tùy thuộc vào tình trạng của bé gái sau khi sinh, nếu bé ổn định, đội ngũ địa phương có thể thực hiện một đánh giá và siêu âm tim.
+  HTML: <span class="text-node" data-text-node="true">Depending on the condition of your baby girl after birth, if she is stable, the local team may do an assessment and cardiac echo.</span>
+
+[Segment 54] Status: MT
+  SRC: We will liaise with the William Harvey Hospital regarding meeting you after your baby is born for discussions around advance care planning and will provide a symptom management plan.
+  TGT: Chúng tôi sẽ phối hợp với Bệnh viện William Harvey để gặp bạn sau khi bé của bạn được sinh ra, nhằm thảo luận về kế hoạch chăm sóc trước và sẽ cung cấp một kế hoạch quản lý triệu chứng.
+  HTML: <span class="text-node" data-text-node="true">We will liaise with the William Harvey Hospital regarding meeting you after your baby is born for discussions around advance care planning and will provide a symptom management plan.</span>
+
+[Segment 55] Status: MT
+  SRC: As agreed with you, we will make a referral to Demelza.
+  TGT: Như đã thỏa thuận với bạn, chúng tôi sẽ giới thiệu tới Demelza.
+  HTML: <span class="text-node" data-text-node="true">As agreed with you, we will make a referral to Demelza.</span>
+
+[Segment 56] Status: MT
+  SRC: Thi, we will send you a text with our team's contact details.
+  TGT: Thi, chúng tôi sẽ gửi cho bạn một tin nhắn với thông tin liên lạc của đội ngũ chúng tôi.
+  HTML: <span class="text-node" data-text-node="true">Thi, we will send you a text with our team's contact details.</span>
+
+[Segment 57] Status: MT
+  SRC: Please do contact us if you have any questions or concerns.
+  TGT: Vui lòng liên hệ với chúng tôi nếu bạn có bất kỳ câu hỏi hoặc lo ngại nào.
+  HTML: <span class="text-node" data-text-node="true">Please do contact us if you have any questions or concerns.</span>
+
+[Segment 58] Status: M
+  SRC: Yours Sincerely,
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Yours Sincerely,</span>
+
+[Segment 59] Status: MT
+  SRC: Signed and authorised electronically to avoid delay
+  TGT: Được ký và ủy quyền điện tử để tránh trì hoãn
+  HTML: <span class="text-node" data-text-node="true">Signed and authorised electronically to avoid delay</span>
+
+[Segment 60] Status: MT
+  SRC: Diana Freitas
+  TGT: Diana Freitas
+  HTML: <span class="text-node" data-text-node="true">Diana Freitas</span>
+
+[Segment 61] Status: MT
+  SRC: Clinical Nurse Specialist in Paediatric Palliative Care
+  TGT: Chuyên gia điều dưỡng lâm sàng trong Chăm sóc giảm nhẹ nhi khoa
+  HTML: <span class="text-node" data-text-node="true">Clinical Nurse Specialist in Paediatric Palliative Care</span>
+
+[Segment 62] Status: M
+  SRC: Evelina London Children's Hospital
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Evelina London Children's Hospital</span>
+
+[Segment 63] Status: MT
+  SRC: Cc'd: NORTHGATE MEDICAL PRACTICE
+  TGT: Cc: NORTHGATE MEDICAL PRACTICE
+  HTML: <span class="text-node" data-text-node="true">Cc'd: NORTHGATE MEDICAL PRACTICE</span>
+
+[Segment 64] Status: M
+  SRC: 1 NORTHGATE
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">1 NORTHGATE</span>
+
+[Segment 65] Status: R
+  SRC: CANTERBURY
+  TGT: CANTERBURY
+  HTML: <span class="text-node" data-text-node="true">CANTERBURY</span>
+
+[Segment 66] Status: R
+  SRC: KENT
+  TGT: KENT
+  HTML: <span class="text-node" data-text-node="true">KENT</span>
+
+[Segment 67] Status: R
+  SRC: CT1 1WL
+  TGT: CT1 1WL
+  HTML: <span class="text-node" data-text-node="true">CT1 1WL</span>
+
+[Segment 68] Status: 100%
+  SRC: Via Electronically to GP
+  TGT: Qua đường thư điện tử tới bác sỹ đa khoa
+  HTML: <span class="text-node" data-text-node="true">Via Electronically to GP</span>
+
+[Segment 69] Status: MT
+  SRC: Dr Shavindra Chellen
+  TGT: Bác sĩ Shavindra Chellen
+  HTML: <span class="text-node" data-text-node="true">Dr Shavindra Chellen</span>
+
+[Segment 70] Status: MT
+  SRC: Neonatal Consultant - William Harvey Hospital
+  TGT: Bác sĩ chuyên khoa sơ sinh - Bệnh viện William Harvey
+  HTML: <span class="text-node" data-text-node="true">Neonatal Consultant - William Harvey Hospital</span>
+
+[Segment 71] Status: MT
+  SRC: (Via email)
+  TGT: (Qua email)
+  HTML: <span class="text-node" data-text-node="true">(Via email)</span>
+
+[Segment 72] Status: 100%
+  SRC: Via Post
+  TGT: Gửi qua Bưu điện
+  HTML: <span class="text-node" data-text-node="true">Via Post</span>
+
+[Segment 73] Status: M
+  SRC: Name: Nguyen, Thi Linh NHS No: 735 723 4886
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Name: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">Nguyen, Thi Linh </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">NHS No:</span><img class="inline" data-inline-id="2" data-inline-type="G" aria-label="{2}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2"><span class="text-node" data-text-node="true"> 735 723 4886</span><img class="inline" data-inline-id="2" data-inline-type="G" aria-label="{2}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2">
+
+[Segment 74] Status: 100%
+  SRC: Page 1
+  TGT: Trang 1
+  HTML: <span class="text-node" data-text-node="true">Page </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">1</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+
+[Segment 75] Status: M
+  SRC: Name: Nguyen, Thi Linh NHS No: 735 723 4886
+  TGT: 
+  HTML: <span class="text-node" data-text-node="true">Name: </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">Nguyen, Thi Linh </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">NHS No:</span><img class="inline" data-inline-id="2" data-inline-type="G" aria-label="{2}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2"><span class="text-node" data-text-node="true"> 735 723 4886</span><img class="inline" data-inline-id="2" data-inline-type="G" aria-label="{2}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2">
+
+[Segment 76] Status: 100%
+  SRC: Page 1
+  TGT: Trang 1
+  HTML: <span class="text-node" data-text-node="true">Page </span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1"><span class="text-node" data-text-node="true">1</span><img class="inline" data-inline-id="1" data-inline-type="G" aria-label="{1}" src="web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1">
+

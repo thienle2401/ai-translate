@@ -1,0 +1,317 @@
+{
+  "1": {
+    "id": "1",
+    "sourceText": "Sarah Smith",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sarah Smith</span>"
+  },
+  "2": {
+    "id": "2",
+    "sourceText": "Chief Executive",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Chief Executive</span>"
+  },
+  "3": {
+    "id": "3",
+    "sourceText": "Sharon Cooper",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sharon Cooper</span>"
+  },
+  "4": {
+    "id": "4",
+    "sourceText": "Director of Children’s Services",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Director of Children’s Services</span>"
+  },
+  "5": {
+    "id": "5",
+    "sourceText": "Warrington Borough Council",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Warrington Borough Council</span>"
+  },
+  "6": {
+    "id": "6",
+    "sourceText": "Town Hall",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Town Hall</span>"
+  },
+  "7": {
+    "id": "7",
+    "sourceText": "Sankey Street",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sankey Street</span>"
+  },
+  "8": {
+    "id": "8",
+    "sourceText": "Warrington",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Warrington</span>"
+  },
+  "9": {
+    "id": "9",
+    "sourceText": "WA1 1UH",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">WA1 1UH</span>"
+  },
+  "10": {
+    "id": "10",
+    "sourceText": "Sarah Smith",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sarah Smith</span>"
+  },
+  "11": {
+    "id": "11",
+    "sourceText": "Chief Executive",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Chief Executive</span>"
+  },
+  "12": {
+    "id": "12",
+    "sourceText": "Sharon Cooper",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sharon Cooper</span>"
+  },
+  "13": {
+    "id": "13",
+    "sourceText": "Director of Children’s Services",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Director of Children’s Services</span>"
+  },
+  "14": {
+    "id": "14",
+    "sourceText": "Warrington Borough Council",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Warrington Borough Council</span>"
+  },
+  "15": {
+    "id": "15",
+    "sourceText": "Town Hall",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Town Hall</span>"
+  },
+  "16": {
+    "id": "16",
+    "sourceText": "Sankey Street",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sankey Street</span>"
+  },
+  "17": {
+    "id": "17",
+    "sourceText": "Warrington",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Warrington</span>"
+  },
+  "18": {
+    "id": "18",
+    "sourceText": "WA1 1UH",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">WA1 1UH</span>"
+  },
+  "19": {
+    "id": "19",
+    "sourceText": ":31202 bbyron@warrington.gov.uk",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">:31202 bbyron@warrington.gov.uk</span>"
+  },
+  "20": {
+    "id": "20",
+    "sourceText": ":31202 bbyron@warrington.gov.uk",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">:31202 bbyron@warrington.gov.uk</span>"
+  },
+  "21": {
+    "id": "21",
+    "sourceText": "Date:August 2026",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Date:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">August 2026</span>"
+  },
+  "22": {
+    "id": "22",
+    "sourceText": "Dear Quan",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dear Quan</span>"
+  },
+  "23": {
+    "id": "23",
+    "sourceText": "It is time for me to review your care plan, and Evelyn has told me that Neta will be invited, and school, school nurse and Hashim will be asked for a written report only.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">It is time for me to review your care plan, and Evelyn has told me that Neta will be invited, and school, school nurse and Hashim will be asked for a written report only.</span>"
+  },
+  "24": {
+    "id": "24",
+    "sourceText": "If this is not what you want, please let me know.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">If this is not what you want, please let me know.</span>"
+  },
+  "25": {
+    "id": "25",
+    "sourceText": "The reason we have a review is to look at your care plan with you and make sure the adults are doing what they are supposed to and that your care plan is still right for you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The reason we have a review is to look at your care plan with you and make sure the adults are doing what they are supposed to and that your care plan is still right for you.</span>"
+  },
+  "26": {
+    "id": "26",
+    "sourceText": "I want you to be as happy as possible and properly cared for.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I want you to be as happy as possible and properly cared for.</span>"
+  },
+  "27": {
+    "id": "27",
+    "sourceText": "It is my job to make sure you are listened to, and your review is your chance to ask the adults what they are doing for you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">It is my job to make sure you are listened to, and your review is your chance to ask the adults what they are doing for you.</span>"
+  },
+  "28": {
+    "id": "28",
+    "sourceText": "There are lots of ways you can tell me what you think about your care plan and what is important to you:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">There are lots of ways you can tell me what you think about your care plan and what is important to you:</span>"
+  },
+  "29": {
+    "id": "29",
+    "sourceText": "Send a report or presentation",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Send a report or presentation</span>"
+  },
+  "30": {
+    "id": "30",
+    "sourceText": "Send some pictures",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Send some pictures</span>"
+  },
+  "31": {
+    "id": "31",
+    "sourceText": "Complete and return the contribution form attached",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Complete and return the contribution form attached</span>"
+  },
+  "32": {
+    "id": "32",
+    "sourceText": "Ask to speak to me before the review",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Ask to speak to me before the review</span>"
+  },
+  "33": {
+    "id": "33",
+    "sourceText": "Come to your review",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Come to your review</span>"
+  },
+  "34": {
+    "id": "34",
+    "sourceText": "Chair your own review",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Chair your own review</span>"
+  },
+  "35": {
+    "id": "35",
+    "sourceText": "If you go to Warrington’s “All About Us” website, you can find out more about reviews.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">If you go to Warrington’s “All About Us” website, you can find out more about reviews.</span>"
+  },
+  "36": {
+    "id": "36",
+    "sourceText": "The website also has some great ideas to help you say what you want to say.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The website also has some great ideas to help you say what you want to say.</span>"
+  },
+  "37": {
+    "id": "37",
+    "sourceText": "You can even make your own report on there. https://allaboutus.warrington.gov.uk/",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You can even make your own report on there. </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">https://allaboutus.warrington.gov.uk/</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "38": {
+    "id": "38",
+    "sourceText": "Although we may talk about you in the review, we do this to make sure the adults are doing what they should, and we will give the adults tasks to complete to make sure your care plan is still supporting you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Although we may talk about you in the review, we do this to make sure the adults are doing what they should, and we will give the adults tasks to complete to make sure your care plan is still supporting you.</span>"
+  },
+  "39": {
+    "id": "39",
+    "sourceText": "These tasks will be called review decisions, and these are about jobs for the adults.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">These tasks will be called review decisions, and these are about jobs for the adults.</span>"
+  },
+  "40": {
+    "id": "40",
+    "sourceText": "After the review, I will write a report, and you can have a copy, but I will write you a letter.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">After the review, I will write a report, and you can have a copy, but I will write you a letter.</span>"
+  },
+  "41": {
+    "id": "41",
+    "sourceText": "I usually send copies of my report to the people who have been invited or consulted at your review.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I usually send copies of my report to the people who have been invited or consulted at your review.</span>"
+  },
+  "42": {
+    "id": "42",
+    "sourceText": "If you do not want someone to get a copy, please tell me.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">If you do not want someone to get a copy, please tell me.</span>"
+  },
+  "43": {
+    "id": "43",
+    "sourceText": "We hope you feel able to attend and look forward to speaking to you on 25th August 2026 2pm at home.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We hope you feel able to attend and look forward to speaking to you on 25</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">th</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> August 2026 2pm at home.</span>"
+  },
+  "44": {
+    "id": "44",
+    "sourceText": "Ellie Malone",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Ellie Malone</span>"
+  },
+  "45": {
+    "id": "45",
+    "sourceText": "ELLIE MALONE",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">ELLIE MALONE</span>"
+  },
+  "46": {
+    "id": "46",
+    "sourceText": "Independent Reviewing Officer",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Independent Reviewing Officer</span>"
+  },
+  "47": {
+    "id": "47",
+    "sourceText": "Direct dial:01925 442781",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Direct dial:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">01925 442781</span>"
+  },
+  "48": {
+    "id": "48",
+    "sourceText": "Mobile: 07775 024841 – This number should only be used during office hours 9am",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mobile:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> 07775 024841 – This number should only be used during office hours 9am</span>"
+  },
+  "49": {
+    "id": "49",
+    "sourceText": "to 5pm Mondays to Fridays and should not be used in an emergency",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">to 5pm Mondays to Fridays and should not be used in an emergency</span>"
+  },
+  "50": {
+    "id": "50",
+    "sourceText": "Email: emalone@warrington.gov.uk",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Email: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">emalone@warrington.gov.uk</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "51": {
+    "id": "51",
+    "sourceText": "Website: www.warringtonlscb.org",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Website: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">www.warringtonlscb.org</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "52": {
+    "id": "52",
+    "sourceText": "MAKE SURE YOUR VOICE IS HEARD",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">MAKE SURE </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">YOUR VOICE IS </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">HEARD</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=2\">"
+  },
+  "53": {
+    "id": "53",
+    "sourceText": "YOU HAVE THE RIGHT TO BE LISTENED TO AND TAKEN SERIOUSLY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">YOU HAVE THE RIGHT TO BE LISTENED TO AND TAKEN SERIOUSLY</span>"
+  },
+  "54": {
+    "id": "54",
+    "sourceText": "YOU CAN COME AND GET INVOLVED AT OUR EXPRESS GROUP ONCE A MONTH",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">YOU CAN COME AND GET INVOLVED AT OUR EXPRESS GROUP ONCE A MONTH</span>"
+  },
+  "55": {
+    "id": "55",
+    "sourceText": "OR",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OR</span>"
+  },
+  "56": {
+    "id": "56",
+    "sourceText": "YOU CAN USE THIS LINK TO GET IN TOUCH ONLINE RIGHT AWAY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">YOU CAN USE THIS LINK TO GET IN TOUCH ONLINE RIGHT AWAY</span>"
+  },
+  "57": {
+    "id": "57",
+    "sourceText": "EMAIL KPIERCE@WARRINGTON.GOV.UK FOR MORE INFO",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">EMAIL </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">KPIERCE@WARRINGTON.GOV.UK</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> FOR MORE INFO</span>"
+  },
+  "58": {
+    "id": "58",
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>"
+  },
+  "59": {
+    "id": "59",
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>"
+  },
+  "60": {
+    "id": "60",
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>"
+  },
+  "61": {
+    "id": "61",
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>"
+  },
+  "62": {
+    "id": "62",
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>"
+  },
+  "63": {
+    "id": "63",
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>"
+  }
+}

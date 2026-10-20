@@ -1,0 +1,610 @@
+[
+  {
+    "id": 1,
+    "sourceText": "Begin Address Placeholder - DO NOT MODIFY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Begin Address Placeholder - DO NOT MODIFY</span>",
+    "targetText": "Bắt đầu địa chỉ Placeholder - KHÔNG CHỈNH SỬA",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Bắt đầu địa chỉ Placeholder - KHÔNG CHỈNH SỬA</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 2,
+    "sourceText": "[Recipient name]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[Recipient name]</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 3,
+    "sourceText": "[Address line]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[Address line]</span>",
+    "targetText": "[Dòng địa chỉ]",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">[Dòng địa chỉ]</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 4,
+    "sourceText": "[Town/City]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[Town/City]</span>",
+    "targetText": "[Thị trấn/Thành phố]",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">[Thị trấn/Thành phố]</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 5,
+    "sourceText": "[County]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[County]</span>",
+    "targetText": "[Quận]",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">[Quận]</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 6,
+    "sourceText": "[Country]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[Country]</span>",
+    "targetText": "[Quốc gia]",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">[Quốc gia]</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 7,
+    "sourceText": "[Postcode] [District]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[Postcode] [District]</span>",
+    "targetText": "[Mã bưu điện] [Quận]",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">[Mã bưu điện] [Quận]</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 8,
+    "sourceText": "End Address Placeholder - DO NOT MODIFY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">End Address Placeholder - DO NOT MODIFY</span>",
+    "targetText": "Địa chỉ cuối - KHÔNG CHỈNH",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Địa chỉ cuối - KHÔNG CHỈNH</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 9,
+    "sourceText": "Evelina London Children's Hospital",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Evelina London Children's Hospital</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 10,
+    "sourceText": "Westminster Bridge Road",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Westminster Bridge Road</span>",
+    "targetText": "Đường Westminster Bridge",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Đường Westminster Bridge</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 11,
+    "sourceText": "London",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">London</span>",
+    "targetText": "London",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">London</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 12,
+    "sourceText": "SE1 7EH",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">SE1 7EH</span>",
+    "targetText": "SE1 7EH",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">SE1 7EH</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 13,
+    "sourceText": "Appointment Date: Wednesday 5 August 2026",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Appointment Date: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Wednesday 5 August 2026</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "Ngày hẹn: Thứ Tư, 5 tháng 8 năm 2026",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Ngày hẹn: Thứ Tư, 5 tháng 8 năm 2026</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "statusText": "MT"
+  },
+  {
+    "id": 14,
+    "sourceText": "Printed On: 5 August 2026",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Printed On: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">5 August 2026</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 15,
+    "sourceText": "Patient Details",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Patient Details</span>",
+    "targetText": "Thông tin về Bệnh nhân",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Thông tin về Bệnh nhân</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 16,
+    "sourceText": "Name: Nguyen, Thi Linh",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Name: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Nguyen, Thi Linh</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 17,
+    "sourceText": "DOB: 19/8/1982",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">DOB: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">19/8/1982 </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 18,
+    "sourceText": "NHS No: 735 723 4886 Hospital No: 40117002",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">NHS No: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">735 723 4886 </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Hospital No: </span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">40117002</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\">",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 19,
+    "sourceText": "Address: 25 Glenside Avenue CANTERBURY CT1 1DB",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Address: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">25 Glenside Avenue CANTERBURY CT1 1DB</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "Địa chỉ: 25 Đại lộ Glenside CANTERBURY CT1 1DB",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Địa chỉ: 25 Đại lộ Glenside CANTERBURY CT1 1DB</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "statusText": "MT"
+  },
+  {
+    "id": 20,
+    "sourceText": "Phone: 07869 696912",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Phone:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> 07869 696912</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 21,
+    "sourceText": "Dept: Evelina Paediatric Palliative Care",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dept:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> Evelina Paediatric Palliative Care</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 22,
+    "sourceText": "Dept Tel: 020 7188 7188 x53278",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dept Tel: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">020 7188 7188 x53278</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "SĐT bộ phận: 020 7188 7188 x53278",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">SĐT bộ phận: 020 7188 7188 x53278</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "statusText": "MT"
+  },
+  {
+    "id": 23,
+    "sourceText": "Dept Email: gstt.paediatricpalliative@nhs.net",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dept Email: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">gstt.paediatricpalliative@nhs.net</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "Email phòng ban: gstt.paediatricpalliative@nhs.net",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Email phòng ban: gstt.paediatricpalliative@nhs.net</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "statusText": "MT"
+  },
+  {
+    "id": 24,
+    "sourceText": "Seen / Reviewed by: Diana Freitas",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Seen / Reviewed by: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Diana Freitas</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 25,
+    "sourceText": "GP Information",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">GP Information</span>",
+    "targetText": "Thông tin về Bác sỹ đa khoa",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Thông tin về Bác sỹ đa khoa</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 26,
+    "sourceText": "NORTHGATE MEDICAL PRACTICE",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">NORTHGATE MEDICAL PRACTICE</span>",
+    "targetText": "PHÒNG KHÁM Y TẾ NORTHGATE",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">PHÒNG KHÁM Y TẾ NORTHGATE</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 27,
+    "sourceText": "1 NORTHGATE",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">1 NORTHGATE</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 28,
+    "sourceText": "CANTERBURY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">CANTERBURY</span>",
+    "targetText": "CANTERBURY",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">CANTERBURY</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 29,
+    "sourceText": "KENT",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">KENT</span>",
+    "targetText": "KENT",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">KENT</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 30,
+    "sourceText": "CT1 1WL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">CT1 1WL</span>",
+    "targetText": "CT1 1WL",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">CT1 1WL</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 31,
+    "sourceText": "Primary Recipient:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Primary Recipient:</span>",
+    "targetText": "Người nhận Chính:",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Người nhận Chính:</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 32,
+    "sourceText": "Mrs. Thi Linh NGUYEN",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mrs. Thi Linh NGUYEN</span>",
+    "targetText": "Bà Thi Linh NGUYEN",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Bà Thi Linh NGUYEN</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 33,
+    "sourceText": "Via MyChart",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Via MyChart</span>",
+    "targetText": "Thông qua MyChart",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Thông qua MyChart</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 34,
+    "sourceText": "Dear",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dear</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 35,
+    "sourceText": "Thi Linh,",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi Linh,</span>",
+    "targetText": "Thi Linh,",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi Linh,</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 36,
+    "sourceText": "It was a pleasure for me, CNS Diana Freitas, from the Paediatric Palliative Care team to meet you, alongside Foetal Cardiologist Dr Vigneswaran and CNS Daifenir de la Cruz, on the 5th of August 2026.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">It was a pleasure for me, CNS Diana Freitas, from the Paediatric Palliative Care team to meet you, alongside Foetal Cardiologist Dr Vigneswaran and CNS Daifenir de la Cruz, on the 5th of August 2026.</span>",
+    "targetText": "Tôi, CNS Diana Freitas, thuộc đội ngũ Chăm sóc giảm nhẹ nhi khoa, rất vui được gặp bạn vào ngày 5 tháng 8 năm 2026, cùng với bác sĩ tim mạch thai nhi, Tiến sĩ Vigneswaran và CNS Daifenir de la Cruz.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Tôi, CNS Diana Freitas, thuộc đội ngũ Chăm sóc giảm nhẹ nhi khoa, rất vui được gặp bạn vào ngày 5 tháng 8 năm 2026, cùng với bác sĩ tim mạch thai nhi, Tiến sĩ Vigneswaran và CNS Daifenir de la Cruz.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 37,
+    "sourceText": "The aim for this meeting was to explain about our services and how the team can support you and your baby girl, in view of her antenatal diagnosis of Trisomy 18 and congenital heart condition.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The aim for this meeting was to explain about our services and how the team can support you and your baby girl, in view of her antenatal diagnosis of Trisomy 18 and congenital heart condition.</span>",
+    "targetText": "Mục đích của buổi họp này là giải thích về các dịch vụ của chúng tôi và cách đội ngũ có thể hỗ trợ bạn và bé gái của bạn, dựa trên chẩn đoán tiền sinh của bé về hội chứng Trisomy 18 và bệnh tim bẩm sinh.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Mục đích của buổi họp này là giải thích về các dịch vụ của chúng tôi và cách đội ngũ có thể hỗ trợ bạn và bé gái của bạn, dựa trên chẩn đoán tiền sinh của bé về hội chứng Trisomy 18 và bệnh tim bẩm sinh.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 38,
+    "sourceText": "We talked about the paediatric palliative care service based at the Evelina hospital and how our team can support you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We talked about the paediatric palliative care service based at the Evelina hospital and how our team can support you.</span>",
+    "targetText": "Chúng tôi đã thảo luận về dịch vụ chăm sóc giảm nhẹ nhi khoa tại bệnh viện Evelina và cách đội ngũ của chúng tôi có thể hỗ trợ bạn.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chúng tôi đã thảo luận về dịch vụ chăm sóc giảm nhẹ nhi khoa tại bệnh viện Evelina và cách đội ngũ của chúng tôi có thể hỗ trợ bạn.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 39,
+    "sourceText": "We are a specialist team of Consultants, Clinical Nurse Specialists (CNS) and clinical fellows.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We are a specialist team of Consultants, Clinical Nurse Specialists (CNS) and clinical fellows.</span>",
+    "targetText": "Chúng tôi là một đội ngũ chuyên gia bao gồm các bác sĩ chuyên khoa, Chuyên gia Điều dưỡng Lâm sàng (CNS) và các bác sĩ nội trú.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chúng tôi là một đội ngũ chuyên gia bao gồm các bác sĩ chuyên khoa, Chuyên gia Điều dưỡng Lâm sàng (CNS) và các bác sĩ nội trú.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 40,
+    "sourceText": "We aim to support children with life-limiting conditions and their families, wherever they are being cared for – in hospital and in the community.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We aim to support children with life-limiting conditions and their families, wherever they are being cared for – in hospital and in the community.</span>",
+    "targetText": "Chúng tôi hướng đến việc hỗ trợ trẻ em với các tình trạng giới hạn cuộc sống và gia đình của chúng, bất kể họ được chăm sóc ở đâu – trong bệnh viện và trong cộng đồng.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chúng tôi hướng đến việc hỗ trợ trẻ em với các tình trạng giới hạn cuộc sống và gia đình của chúng, bất kể họ được chăm sóc ở đâu – trong bệnh viện và trong cộng đồng.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 41,
+    "sourceText": "We work closely alongside the GSTT Paediatric Cardiology team and the William Harvey Hospital Neonatal team.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We work closely alongside the GSTT Paediatric Cardiology team and the William Harvey Hospital Neonatal team.</span>",
+    "targetText": "Chúng tôi làm việc chặt chẽ cùng đội Tim mạch Nhi khoa GSTT và đội Neonatal của Bệnh viện William Harvey.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chúng tôi làm việc chặt chẽ cùng đội Tim mạch Nhi khoa GSTT và đội Neonatal của Bệnh viện William Harvey.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 42,
+    "sourceText": "We have three main roles:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We have three main roles:</span>",
+    "targetText": "Chúng tôi có ba vai trò chính:",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chúng tôi có ba vai trò chính:</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 43,
+    "sourceText": "Advanced Care Planning – supporting you in making decisions for your baby girl, understanding what your goals of care are and how these can be achieved.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Advanced Care Planning – supporting you in making decisions for your baby girl, understanding what your goals of care are and how these can be achieved.</span>",
+    "targetText": "Kế hoạch chăm sóc nâng cao – hỗ trợ bạn trong việc đưa ra quyết định cho bé gái của bạn, hiểu mục tiêu chăm sóc của bạn là gì và cách đạt được chúng.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Kế hoạch chăm sóc nâng cao – hỗ trợ bạn trong việc đưa ra quyết định cho bé gái của bạn, hiểu mục tiêu chăm sóc của bạn là gì và cách đạt được chúng.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 44,
+    "sourceText": "Symptom management – In conjunction with an advance care plan, we can provide a symptom management plan to ensure your baby girl is as comfortable as possible by managing any distressing symptoms.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Symptom management – In conjunction with an advance care plan, we can provide a symptom management plan to ensure your baby girl is as comfortable as possible by managing any distressing symptoms.</span>",
+    "targetText": "Kết hợp với kế hoạch chăm sóc trước, chúng tôi có thể cung cấp một kế hoạch quản lý triệu chứng để đảm bảo bé gái của bạn cảm thấy thoải mái nhất có thể bằng cách quản lý bất kỳ triệu chứng gây khó chịu nào.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Kết hợp với kế hoạch chăm sóc trước, chúng tôi có thể cung cấp một kế hoạch quản lý triệu chứng để đảm bảo bé gái của bạn cảm thấy thoải mái nhất có thể bằng cách quản lý bất kỳ triệu chứng gây khó chịu nào.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 45,
+    "sourceText": "End of life care – we discussed that we don't know for how long your baby girl will survive, and we will also offer support when she nears her end of life.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">End of life care – we discussed that we don't know for how long your baby girl will survive, and we will also offer support when she nears her end of life.</span>",
+    "targetText": "Chăm sóc cuối đời – chúng tôi đã thảo luận rằng chúng tôi không biết con gái của bạn sẽ sống được bao lâu, và chúng tôi cũng sẽ cung cấp hỗ trợ khi cô bé gần đến giai đoạn cuối đời.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chăm sóc cuối đời – chúng tôi đã thảo luận rằng chúng tôi không biết con gái của bạn sẽ sống được bao lâu, và chúng tôi cũng sẽ cung cấp hỗ trợ khi cô bé gần đến giai đoạn cuối đời.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 46,
+    "sourceText": "Thi, you kindly shared you live with your husband and you have 5 children.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi, you kindly shared you live with your husband and you have 5 children.</span>",
+    "targetText": "Thi, cô đã tử tế chia sẻ rằng cô sống với chồng và có 5 đứa con.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi, cô đã tử tế chia sẻ rằng cô sống với chồng và có 5 đứa con.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 47,
+    "sourceText": "You have been in the UK for 2 years, but don't yet have a work permit.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You have been in the UK for 2 years, but don't yet have a work permit.</span>",
+    "targetText": "Bạn đã ở Anh được 2 năm, nhưng vẫn chưa có giấy phép lao động.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Bạn đã ở Anh được 2 năm, nhưng vẫn chưa có giấy phép lao động.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 48,
+    "sourceText": "We discussed about referral to Demelza.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We discussed about referral to Demelza.</span>",
+    "targetText": "Chúng tôi đã thảo luận về việc giới thiệu tới Demelza.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chúng tôi đã thảo luận về việc giới thiệu tới Demelza.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 49,
+    "sourceText": "Children's hospices are centres for complex and life limited children, staffed by nurses with support from local GP and our specialist team.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Children's hospices are centres for complex and life limited children, staffed by nurses with support from local GP and our specialist team.</span>",
+    "targetText": "Các trung tâm dưỡng trẻ em là các cơ sở dành cho trẻ em có bệnh phức tạp và thời gian sống hạn chế, được nhân viên y tá chăm sóc, với sự hỗ trợ từ bác sĩ gia đình địa phương và đội ngũ chuyên gia của chúng tôi.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Các trung tâm dưỡng trẻ em là các cơ sở dành cho trẻ em có bệnh phức tạp và thời gian sống hạn chế, được nhân viên y tá chăm sóc, với sự hỗ trợ từ bác sĩ gia đình địa phương và đội ngũ chuyên gia của chúng tôi.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 50,
+    "sourceText": "They are a great source of support for the whole family.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">They are a great source of support for the whole family.</span>",
+    "targetText": "Họ là một nguồn hỗ trợ tuyệt vời cho cả gia đình.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Họ là một nguồn hỗ trợ tuyệt vời cho cả gia đình.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 51,
+    "sourceText": "Thi you have kindly verbally consented for referral to Demelza.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi you have kindly verbally consented for referral to Demelza.</span>",
+    "targetText": "Bạn Thi đã vui lòng đồng ý bằng lời cho việc giới thiệu tới Demelza.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Bạn Thi đã vui lòng đồng ý bằng lời cho việc giới thiệu tới Demelza.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 52,
+    "sourceText": "The antenatal plan is for the birth to be in William Harvey Hospital.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The antenatal plan is for the birth to be in William Harvey Hospital.</span>",
+    "targetText": "Kế hoạch trước sinh là sinh tại Bệnh viện William Harvey.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Kế hoạch trước sinh là sinh tại Bệnh viện William Harvey.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 53,
+    "sourceText": "Depending on the condition of your baby girl after birth, if she is stable, the local team may do an assessment and cardiac echo.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Depending on the condition of your baby girl after birth, if she is stable, the local team may do an assessment and cardiac echo.</span>",
+    "targetText": "Tùy thuộc vào tình trạng của bé gái sau khi sinh, nếu bé ổn định, đội ngũ địa phương có thể thực hiện một đánh giá và siêu âm tim.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Tùy thuộc vào tình trạng của bé gái sau khi sinh, nếu bé ổn định, đội ngũ địa phương có thể thực hiện một đánh giá và siêu âm tim.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 54,
+    "sourceText": "We will liaise with the William Harvey Hospital regarding meeting you after your baby is born for discussions around advance care planning and will provide a symptom management plan.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We will liaise with the William Harvey Hospital regarding meeting you after your baby is born for discussions around advance care planning and will provide a symptom management plan.</span>",
+    "targetText": "Chúng tôi sẽ phối hợp với Bệnh viện William Harvey để gặp bạn sau khi bé của bạn được sinh ra, nhằm thảo luận về kế hoạch chăm sóc trước và sẽ cung cấp một kế hoạch quản lý triệu chứng.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chúng tôi sẽ phối hợp với Bệnh viện William Harvey để gặp bạn sau khi bé của bạn được sinh ra, nhằm thảo luận về kế hoạch chăm sóc trước và sẽ cung cấp một kế hoạch quản lý triệu chứng.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 55,
+    "sourceText": "As agreed with you, we will make a referral to Demelza.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">As agreed with you, we will make a referral to Demelza.</span>",
+    "targetText": "Như đã thỏa thuận với bạn, chúng tôi sẽ giới thiệu tới Demelza.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Như đã thỏa thuận với bạn, chúng tôi sẽ giới thiệu tới Demelza.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 56,
+    "sourceText": "Thi, we will send you a text with our team's contact details.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi, we will send you a text with our team's contact details.</span>",
+    "targetText": "Thi, chúng tôi sẽ gửi cho bạn một tin nhắn với thông tin liên lạc của đội ngũ chúng tôi.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi, chúng tôi sẽ gửi cho bạn một tin nhắn với thông tin liên lạc của đội ngũ chúng tôi.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 57,
+    "sourceText": "Please do contact us if you have any questions or concerns.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Please do contact us if you have any questions or concerns.</span>",
+    "targetText": "Vui lòng liên hệ với chúng tôi nếu bạn có bất kỳ câu hỏi hoặc lo ngại nào.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Vui lòng liên hệ với chúng tôi nếu bạn có bất kỳ câu hỏi hoặc lo ngại nào.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 58,
+    "sourceText": "Yours Sincerely,",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Yours Sincerely,</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 59,
+    "sourceText": "Signed and authorised electronically to avoid delay",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Signed and authorised electronically to avoid delay</span>",
+    "targetText": "Được ký và ủy quyền điện tử để tránh trì hoãn",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Được ký và ủy quyền điện tử để tránh trì hoãn</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 60,
+    "sourceText": "Diana Freitas",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Diana Freitas</span>",
+    "targetText": "Diana Freitas",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Diana Freitas</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 61,
+    "sourceText": "Clinical Nurse Specialist in Paediatric Palliative Care",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Clinical Nurse Specialist in Paediatric Palliative Care</span>",
+    "targetText": "Chuyên gia điều dưỡng lâm sàng trong Chăm sóc giảm nhẹ nhi khoa",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chuyên gia điều dưỡng lâm sàng trong Chăm sóc giảm nhẹ nhi khoa</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 62,
+    "sourceText": "Evelina London Children's Hospital",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Evelina London Children's Hospital</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 63,
+    "sourceText": "Cc'd: NORTHGATE MEDICAL PRACTICE",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Cc'd: NORTHGATE MEDICAL PRACTICE</span>",
+    "targetText": "Cc: NORTHGATE MEDICAL PRACTICE",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Cc: NORTHGATE MEDICAL PRACTICE</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 64,
+    "sourceText": "1 NORTHGATE",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">1 NORTHGATE</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 65,
+    "sourceText": "CANTERBURY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">CANTERBURY</span>",
+    "targetText": "CANTERBURY",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">CANTERBURY</span>",
+    "statusText": "R"
+  },
+  {
+    "id": 66,
+    "sourceText": "KENT",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">KENT</span>",
+    "targetText": "KENT",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">KENT</span>",
+    "statusText": "R"
+  },
+  {
+    "id": 67,
+    "sourceText": "CT1 1WL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">CT1 1WL</span>",
+    "targetText": "CT1 1WL",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">CT1 1WL</span>",
+    "statusText": "R"
+  },
+  {
+    "id": 68,
+    "sourceText": "Via Electronically to GP",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Via Electronically to GP</span>",
+    "targetText": "Qua đường thư điện tử tới bác sỹ đa khoa",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Qua đường thư điện tử tới bác sỹ đa khoa</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 69,
+    "sourceText": "Dr Shavindra Chellen",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dr Shavindra Chellen</span>",
+    "targetText": "Bác sĩ Shavindra Chellen",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Bác sĩ Shavindra Chellen</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 70,
+    "sourceText": "Neonatal Consultant - William Harvey Hospital",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Neonatal Consultant - William Harvey Hospital</span>",
+    "targetText": "Bác sĩ chuyên khoa sơ sinh - Bệnh viện William Harvey",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Bác sĩ chuyên khoa sơ sinh - Bệnh viện William Harvey</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 71,
+    "sourceText": "(Via email)",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">(Via email)</span>",
+    "targetText": "(Qua email)",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">(Qua email)</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 72,
+    "sourceText": "Via Post",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Via Post</span>",
+    "targetText": "Gửi qua Bưu điện",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Gửi qua Bưu điện</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 73,
+    "sourceText": "Name: Nguyen, Thi Linh NHS No: 735 723 4886",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Name: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Nguyen, Thi Linh </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">NHS No:</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\"> 735 723 4886</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\">",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 74,
+    "sourceText": "Page 1",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Page </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">1</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "Trang 1",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Trang 1</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "statusText": "100%"
+  },
+  {
+    "id": 75,
+    "sourceText": "Name: Nguyen, Thi Linh NHS No: 735 723 4886",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Name: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Nguyen, Thi Linh </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">NHS No:</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\"> 735 723 4886</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\">",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 76,
+    "sourceText": "Page 1",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Page </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">1</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "Trang 1",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Trang 1</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">",
+    "statusText": "100%"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "ai-translate",
+  "version": "1.0.0",
+  "description": "Browser automation and translation injection library using Puppeteer-core.",
+  "type": "module",
+  "main": "src/utils/browser.js",
+  "scripts": {
+    "extract": "node src/run-extract.js",
+    "inject": "node src/run-inject.js",
+    "chrome": "open -n -a \"Google Chrome\" --args --remote-debugging-port=9222 --user-data-dir=\"$(pwd)/data/chrome_profile\""
+  },
+  "keywords": [
+    "puppeteer",
+    "translation",
+    "automation",
+    "xtm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer-core": "^25.3.0",
+    "ws": "^8.21.0"
+  }
+}

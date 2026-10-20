@@ -1,0 +1,79 @@
+{
+  "135": {
+    "id": "135",
+    "sourceText": "V: 1.2 m/s",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">V: 1.2 m/s</span>",
+    "targetText": "V: 1.2 m/s",
+    "isComplete": true
+  },
+  "136": {
+    "id": "136",
+    "sourceText": "Hở van: (0/4)",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Hở van: (0/4)</span>",
+    "targetText": "",
+    "isComplete": true
+  },
+  "137": {
+    "id": "137",
+    "sourceText": "5.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">5.</span>",
+    "targetText": "5.",
+    "isComplete": true
+  },
+  "138": {
+    "id": "138",
+    "sourceText": "Màng ngoài tim: Không có dịch",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Màng ngoài tim: Không có dịch</span>",
+    "targetText": "",
+    "isComplete": true
+  },
+  "139": {
+    "id": "139",
+    "sourceText": "6.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">6.</span>",
+    "targetText": "6.",
+    "isComplete": true
+  },
+  "140": {
+    "id": "140",
+    "sourceText": "Huyết khối: Không thấy",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Huyết khối: Không thấy</span>",
+    "targetText": "",
+    "isComplete": true
+  },
+  "141": {
+    "id": "141",
+    "sourceText": "7.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">7.</span>",
+    "targetText": "7.",
+    "isComplete": true
+  },
+  "142": {
+    "id": "142",
+    "sourceText": "Vận động thành thất: Bình thường",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Vận động thành thất: Bình thường</span>",
+    "targetText": "",
+    "isComplete": true
+  },
+  "143": {
+    "id": "143",
+    "sourceText": "8.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">8.</span>",
+    "targetText": "8.",
+    "isComplete": true
+  },
+  "144": {
+    "id": "144",
+    "sourceText": "Nhận xét khác: Không",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Nhận xét khác: Không</span>",
+    "targetText": "",
+    "isComplete": true
+  },
+  "145": {
+    "id": "145",
+    "sourceText": "PHIẾU KÉT QUÃ SIÊU ẲM",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PHIẾU KÉT QUÃ SIÊU ẲM</span>",
+    "targetText": "",
+    "isComplete": true
+  }
+}

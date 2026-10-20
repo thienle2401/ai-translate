@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+.npm-cache/
+
+# Chrome user data, browser profiles & session data (large binaries & credentials)
+.chrome_profile/
+data/chrome_profile/
+**/chrome_profile/
+
+# Generated screenshots & media files
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# OS metadata files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs & debug traces
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files & local secrets
+.env
+.env*.local
+
+# Editor / IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Explicitly ensure AI agent skills and configurations are tracked
+!.agents/
+!.agents/**

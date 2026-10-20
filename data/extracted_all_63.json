@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "sourceText": "Sarah Smith",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sarah Smith</span>",
+    "targetText": "Sarah Smith",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Sarah Smith</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 2,
+    "sourceText": "Chief Executive",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Chief Executive</span>",
+    "targetText": "Giám Đốc Điều hành",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Giám Đốc Điều hành</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 3,
+    "sourceText": "Sharon Cooper",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sharon Cooper</span>",
+    "targetText": "Sharon Cooper",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Sharon Cooper</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 4,
+    "sourceText": "Director of Children’s Services",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Director of Children’s Services</span>",
+    "targetText": "Giám đốc Dịch vụ Trẻ em",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Giám đốc Dịch vụ Trẻ em</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 5,
+    "sourceText": "Warrington Borough Council",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Warrington Borough Council</span>",
+    "targetText": "Hội đồng Quận Warrington",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Hội đồng Quận Warrington</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 6,
+    "sourceText": "Town Hall",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Town Hall</span>",
+    "targetText": "Tòa thị chính",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Tòa thị chính</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 7,
+    "sourceText": "Sankey Street",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sankey Street</span>",
+    "targetText": "Sankey Street",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Sankey Street</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 8,
+    "sourceText": "Warrington",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Warrington</span>",
+    "targetText": "Warrington",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Warrington</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 9,
+    "sourceText": "WA1 1UH",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">WA1 1UH</span>",
+    "targetText": "WA1 1UH",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">WA1 1UH</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 10,
+    "sourceText": "Sarah Smith",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sarah Smith</span>",
+    "targetText": "Sarah Smith",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Sarah Smith</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 11,
+    "sourceText": "Chief Executive",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Chief Executive</span>",
+    "targetText": "Giám Đốc Điều hành",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Giám Đốc Điều hành</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 12,
+    "sourceText": "Sharon Cooper",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sharon Cooper</span>",
+    "targetText": "Sharon Cooper",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Sharon Cooper</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 13,
+    "sourceText": "Director of Children’s Services",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Director of Children’s Services</span>",
+    "targetText": "Giám đốc Dịch vụ Trẻ em",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Giám đốc Dịch vụ Trẻ em</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 14,
+    "sourceText": "Warrington Borough Council",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Warrington Borough Council</span>",
+    "targetText": "Hội đồng Quận Warrington",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Hội đồng Quận Warrington</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 15,
+    "sourceText": "Town Hall",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Town Hall</span>",
+    "targetText": "Tòa thị chính",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Tòa thị chính</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 16,
+    "sourceText": "Sankey Street",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Sankey Street</span>",
+    "targetText": "Sankey Street",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Sankey Street</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 17,
+    "sourceText": "Warrington",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Warrington</span>",
+    "targetText": "Warrington",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Warrington</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 18,
+    "sourceText": "WA1 1UH",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">WA1 1UH</span>",
+    "targetText": "WA1 1UH",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">WA1 1UH</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 19,
+    "sourceText": ":31202 bbyron@warrington.gov.uk",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">:31202 bbyron@warrington.gov.uk</span>",
+    "targetText": ":31202 bbyron@warrington.gov.uk",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">:31202 bbyron@warrington.gov.uk</span>",
+    "statusText": "N"
+  },
+  {
+    "id": 20,
+    "sourceText": ":31202 bbyron@warrington.gov.uk",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">:31202 bbyron@warrington.gov.uk</span>",
+    "targetText": ":31202 bbyron@warrington.gov.uk",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">:31202 bbyron@warrington.gov.uk</span>",
+    "statusText": "N"
+  },
+  {
+    "id": 21,
+    "sourceText": "Date:August 2026",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Date:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">August 2026</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 22,
+    "sourceText": "Dear Quan",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dear Quan</span>",
+    "targetText": "Gửi Quan",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Gửi Quan</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 23,
+    "sourceText": "It is time for me to review your care plan, and Evelyn has told me that Neta will be invited, and school, school nurse and Hashim will be asked for a written report only.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">It is time for me to review your care plan, and Evelyn has told me that Neta will be invited, and school, school nurse and Hashim will be asked for a written report only.</span>",
+    "targetText": "Đã đến lúc tôi xem xét lại kế hoạch chăm sóc của bạn, và Evelyn đã cho tôi biết rằng Neta sẽ được mời, trong khi trường học, y tá trường học và Hashim sẽ chỉ được yêu cầu nộp báo cáo bằng văn bản.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Đã đến lúc tôi xem xét lại kế hoạch chăm sóc của bạn, và Evelyn đã cho tôi biết rằng Neta sẽ được mời, trong khi trường học, y tá trường học và Hashim sẽ chỉ được yêu cầu nộp báo cáo bằng văn bản.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 24,
+    "sourceText": "If this is not what you want, please let me know.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">If this is not what you want, please let me know.</span>",
+    "targetText": "Nếu đây không phải những gì bạn muốn, xin vui lòng cho tôi biết.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Nếu đây không phải những gì bạn muốn, xin vui lòng cho tôi biết.</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 25,
+    "sourceText": "The reason we have a review is to look at your care plan with you and make sure the adults are doing what they are supposed to and that your care plan is still right for you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The reason we have a review is to look at your care plan with you and make sure the adults are doing what they are supposed to and that your care plan is still right for you.</span>",
+    "targetText": "Lý do chúng tôi đánh giá là để cùng bạn xem xét kế hoạch chăm sóc của bạn và đảm bảo rằng người lớn đang làm những gì họ phải làm và kế hoạch chăm sóc của bạn vẫn phù hợp với bạn.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Lý do chúng tôi đánh giá là để cùng bạn xem xét kế hoạch chăm sóc của bạn và đảm bảo rằng người lớn đang làm những gì họ phải làm và kế hoạch chăm sóc của bạn vẫn phù hợp với bạn.</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 26,
+    "sourceText": "I want you to be as happy as possible and properly cared for.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I want you to be as happy as possible and properly cared for.</span>",
+    "targetText": "Tôi muốn bạn hạnh phúc nhất có thể và được chăm sóc đúng cách.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Tôi muốn bạn hạnh phúc nhất có thể và được chăm sóc đúng cách.</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 27,
+    "sourceText": "It is my job to make sure you are listened to, and your review is your chance to ask the adults what they are doing for you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">It is my job to make sure you are listened to, and your review is your chance to ask the adults what they are doing for you.</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 28,
+    "sourceText": "There are lots of ways you can tell me what you think about your care plan and what is important to you:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">There are lots of ways you can tell me what you think about your care plan and what is important to you:</span>",
+    "targetText": "Có rất nhiều cách bạn có thể cho tôi biết suy nghĩ của bạn về kế hoạch chăm sóc và điều gì là quan trọng đối với bạn:",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Có rất nhiều cách bạn có thể cho tôi biết suy nghĩ của bạn về kế hoạch chăm sóc và điều gì là quan trọng đối với bạn:</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 29,
+    "sourceText": "Send a report or presentation",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Send a report or presentation</span>",
+    "targetText": "Gửi báo cáo hoặc bản trình bày",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Gửi báo cáo hoặc bản trình bày</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 30,
+    "sourceText": "Send some pictures",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Send some pictures</span>",
+    "targetText": "Gửi một số hình ảnh",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Gửi một số hình ảnh</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 31,
+    "sourceText": "Complete and return the contribution form attached",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Complete and return the contribution form attached</span>",
+    "targetText": "Hoàn thành và gửi lại mẫu đóng góp đính kèm",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Hoàn thành và gửi lại mẫu đóng góp đính kèm</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 32,
+    "sourceText": "Ask to speak to me before the review",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Ask to speak to me before the review</span>",
+    "targetText": "Yêu cầu nói chuyện với tôi trước buổi đánh giá",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Yêu cầu nói chuyện với tôi trước buổi đánh giá</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 33,
+    "sourceText": "Come to your review",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Come to your review</span>",
+    "targetText": "Hãy đến với buổi đánh giá của bạn",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Hãy đến với buổi đánh giá của bạn</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 34,
+    "sourceText": "Chair your own review",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Chair your own review</span>",
+    "targetText": "Chủ trì đánh giá của riêng bạn",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chủ trì đánh giá của riêng bạn</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 35,
+    "sourceText": "If you go to Warrington’s “All About Us” website, you can find out more about reviews.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">If you go to Warrington’s “All About Us” website, you can find out more about reviews.</span>",
+    "targetText": "Nếu bạn truy cập trang web “Tất cả về chúng tôi” của Warrington, bạn có thể tìm hiểu thêm về các bài đánh giá.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Nếu bạn truy cập trang web “Tất cả về chúng tôi” của Warrington, bạn có thể tìm hiểu thêm về các bài đánh giá.</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 36,
+    "sourceText": "The website also has some great ideas to help you say what you want to say.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The website also has some great ideas to help you say what you want to say.</span>",
+    "targetText": "Trang web cũng có một số ý tưởng tuyệt vời để giúp bạn nói những gì bạn muốn nói.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Trang web cũng có một số ý tưởng tuyệt vời để giúp bạn nói những gì bạn muốn nói.</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 37,
+    "sourceText": "You can even make your own report on there. https://allaboutus.warrington.gov.uk/",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You can even make your own report on there. </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">https://allaboutus.warrington.gov.uk/</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "Bạn thậm chí có thể lập báo cáo của riêng mình trên đó. https://allaboutus.warrington.gov.uk/",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Bạn thậm chí có thể lập báo cáo của riêng mình trên đó. </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">https://allaboutus.warrington.gov.uk/</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\">",
+    "statusText": "100%"
+  },
+  {
+    "id": 38,
+    "sourceText": "Although we may talk about you in the review, we do this to make sure the adults are doing what they should, and we will give the adults tasks to complete to make sure your care plan is still supporting you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Although we may talk about you in the review, we do this to make sure the adults are doing what they should, and we will give the adults tasks to complete to make sure your care plan is still supporting you.</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 39,
+    "sourceText": "These tasks will be called review decisions, and these are about jobs for the adults.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">These tasks will be called review decisions, and these are about jobs for the adults.</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 40,
+    "sourceText": "After the review, I will write a report, and you can have a copy, but I will write you a letter.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">After the review, I will write a report, and you can have a copy, but I will write you a letter.</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 41,
+    "sourceText": "I usually send copies of my report to the people who have been invited or consulted at your review.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I usually send copies of my report to the people who have been invited or consulted at your review.</span>",
+    "targetText": "Tôi thường gửi bản sao báo cáo của mình cho những người đã được mời hoặc tham khảo ý kiến đánh giá của bạn.",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Tôi thường gửi bản sao báo cáo của mình cho những người đã được mời hoặc tham khảo ý kiến đánh giá của bạn.</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 42,
+    "sourceText": "If you do not want someone to get a copy, please tell me.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">If you do not want someone to get a copy, please tell me.</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 43,
+    "sourceText": "We hope you feel able to attend and look forward to speaking to you on 25th August 2026 2pm at home.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We hope you feel able to attend and look forward to speaking to you on 25</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">th</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> August 2026 2pm at home.</span>",
+    "targetText": "Chúng tôi hy vọng bạn cảm thấy có khả năng tham dự và mong được nói chuyện với bạn vào ngày 25 tháng 8 năm 2026, 14:00 tại nhà.    tháng tám 2026 2pm 25",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Chúng tôi hy vọng bạn cảm thấy có khả năng tham dự và mong được nói chuyện với bạn vào ngày 25 </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">tháng 8 năm 2026, 14:00 tại nhà.    </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">tháng tám 2026 2pm 25</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 44,
+    "sourceText": "Ellie Malone",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Ellie Malone</span>",
+    "targetText": "Ellie Malone",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Ellie Malone</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 45,
+    "sourceText": "ELLIE MALONE",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">ELLIE MALONE</span>",
+    "targetText": "ELLIE MALONE",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">ELLIE MALONE</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 46,
+    "sourceText": "Independent Reviewing Officer",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Independent Reviewing Officer</span>",
+    "targetText": "Cán bộ Đánh giá Độc lập",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Cán bộ Đánh giá Độc lập</span>",
+    "statusText": "ICE"
+  },
+  {
+    "id": 47,
+    "sourceText": "Direct dial:01925 442781",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Direct dial:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">01925 442781</span>",
+    "targetText": "Quay số trực tiếp:01925 442781",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Quay số trực tiếp:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">01925 442781</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 48,
+    "sourceText": "Mobile: 07775 024841 – This number should only be used during office hours 9am",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mobile:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> 07775 024841 – This number should only be used during office hours 9am</span>",
+    "targetText": "",
+    "targetHTML": "",
+    "statusText": "M"
+  },
+  {
+    "id": 49,
+    "sourceText": "to 5pm Mondays to Fridays and should not be used in an emergency",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">to 5pm Mondays to Fridays and should not be used in an emergency</span>",
+    "targetText": "đến 5h chiều thứ hai đến thứ sáu và không nên được sử dụng trong trường hợp khẩn cấp",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">đến 5h chiều thứ hai đến thứ sáu và không nên được sử dụng trong trường hợp khẩn cấp</span>",
+    "statusText": "100%"
+  },
+  {
+    "id": 50,
+    "sourceText": "Email: emalone@warrington.gov.uk",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Email: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">emalone@warrington.gov.uk</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "Email:emalone@warrington.gov.uk",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Email:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">emalone@warrington.gov.uk</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\">",
+    "statusText": "N"
+  },
+  {
+    "id": 51,
+    "sourceText": "Website: www.warringtonlscb.org",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Website: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">www.warringtonlscb.org</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\">",
+    "targetText": "Website:www.warringtonlscb.org",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Website:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">www.warringtonlscb.org</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\">",
+    "statusText": "N"
+  },
+  {
+    "id": 52,
+    "sourceText": "MAKE SURE YOUR VOICE IS HEARD",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">MAKE SURE </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">YOUR VOICE IS </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">HEARD</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=2\">",
+    "targetText": "ĐẢM BẢO TIẾNG NÓI CỦA BẠN ĐÃ NGHE",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">ĐẢM BẢO TIẾNG NÓI CỦA BẠN ĐÃ NGHE</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=2\"><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=2\">",
+    "statusText": "MT"
+  },
+  {
+    "id": 53,
+    "sourceText": "YOU HAVE THE RIGHT TO BE LISTENED TO AND TAKEN SERIOUSLY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">YOU HAVE THE RIGHT TO BE LISTENED TO AND TAKEN SERIOUSLY</span>",
+    "targetText": "BẠN CÓ QUYỀN ĐƯỢC LẮNG NGHE VÀ ĐƯỢC XEM XÉT MỘT CÁCH NGHIÊM TÚC",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">BẠN CÓ QUYỀN ĐƯỢC LẮNG NGHE VÀ ĐƯỢC XEM XÉT MỘT CÁCH NGHIÊM TÚC</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 54,
+    "sourceText": "YOU CAN COME AND GET INVOLVED AT OUR EXPRESS GROUP ONCE A MONTH",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">YOU CAN COME AND GET INVOLVED AT OUR EXPRESS GROUP ONCE A MONTH</span>",
+    "targetText": "BẠN CÓ THỂ ĐẾN VÀ THAM GIA NHÓM EXPRESS CỦA CHÚNG TÔI MỘT LẦN MỖI THÁNG",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">BẠN CÓ THỂ ĐẾN VÀ THAM GIA NHÓM EXPRESS CỦA CHÚNG TÔI MỘT LẦN MỖI THÁNG</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 55,
+    "sourceText": "OR",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OR</span>",
+    "targetText": "HOẶC",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">HOẶC</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 56,
+    "sourceText": "YOU CAN USE THIS LINK TO GET IN TOUCH ONLINE RIGHT AWAY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">YOU CAN USE THIS LINK TO GET IN TOUCH ONLINE RIGHT AWAY</span>",
+    "targetText": "Bạn có thể sử dụng liên kết này để liên hệ trực tuyến ngay lập tức",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">Bạn có thể sử dụng liên kết này để liên hệ trực tuyến ngay lập tức</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 57,
+    "sourceText": "EMAIL KPIERCE@WARRINGTON.GOV.UK FOR MORE INFO",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">EMAIL </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">KPIERCE@WARRINGTON.GOV.UK</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> FOR MORE INFO</span>",
+    "targetText": "E-mail KPIERCE@WARRINGTON.GOV.UK THÊM THÔNG TIN",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">E-mail KPIERCE@WARRINGTON.GOV.UK THÊM THÔNG TIN</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\"><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1678228a337647979e93f01a8b6911a8&amp;size=14&amp;type=G&amp;id=1\">",
+    "statusText": "MT"
+  },
+  {
+    "id": 58,
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>",
+    "targetText": "CHÍNH THỨC",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">CHÍNH THỨC</span>",
+    "statusText": "MT"
+  },
+  {
+    "id": 59,
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>",
+    "targetText": "CHÍNH THỨC",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">CHÍNH THỨC</span>",
+    "statusText": "R"
+  },
+  {
+    "id": 60,
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>",
+    "targetText": "CHÍNH THỨC",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">CHÍNH THỨC</span>",
+    "statusText": "R"
+  },
+  {
+    "id": 61,
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>",
+    "targetText": "CHÍNH THỨC",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">CHÍNH THỨC</span>",
+    "statusText": "R"
+  },
+  {
+    "id": 62,
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>",
+    "targetText": "CHÍNH THỨC",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">CHÍNH THỨC</span>",
+    "statusText": "R"
+  },
+  {
+    "id": 63,
+    "sourceText": "OFFICIAL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">OFFICIAL</span>",
+    "targetText": "CHÍNH THỨC",
+    "targetHTML": "<span class=\"text-node\" data-text-node=\"true\">CHÍNH THỨC</span>",
+    "statusText": "R"
+  }
+]

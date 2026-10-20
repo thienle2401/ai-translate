@@ -1,0 +1,382 @@
+{
+  "1": {
+    "id": "1",
+    "sourceText": "Begin Address Placeholder - DO NOT MODIFY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Begin Address Placeholder - DO NOT MODIFY</span>"
+  },
+  "2": {
+    "id": "2",
+    "sourceText": "[Recipient name]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[Recipient name]</span>"
+  },
+  "3": {
+    "id": "3",
+    "sourceText": "[Address line]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[Address line]</span>"
+  },
+  "4": {
+    "id": "4",
+    "sourceText": "[Town/City]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[Town/City]</span>"
+  },
+  "5": {
+    "id": "5",
+    "sourceText": "[County]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[County]</span>"
+  },
+  "6": {
+    "id": "6",
+    "sourceText": "[Country]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[Country]</span>"
+  },
+  "7": {
+    "id": "7",
+    "sourceText": "[Postcode] [District]",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">[Postcode] [District]</span>"
+  },
+  "8": {
+    "id": "8",
+    "sourceText": "End Address Placeholder - DO NOT MODIFY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">End Address Placeholder - DO NOT MODIFY</span>"
+  },
+  "9": {
+    "id": "9",
+    "sourceText": "Evelina London Children's Hospital",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Evelina London Children's Hospital</span>"
+  },
+  "10": {
+    "id": "10",
+    "sourceText": "Westminster Bridge Road",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Westminster Bridge Road</span>"
+  },
+  "11": {
+    "id": "11",
+    "sourceText": "London",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">London</span>"
+  },
+  "12": {
+    "id": "12",
+    "sourceText": "SE1 7EH",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">SE1 7EH</span>"
+  },
+  "13": {
+    "id": "13",
+    "sourceText": "Appointment Date: Wednesday 5 August 2026",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Appointment Date: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Wednesday 5 August 2026</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "14": {
+    "id": "14",
+    "sourceText": "Printed On: 5 August 2026",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Printed On: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">5 August 2026</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "15": {
+    "id": "15",
+    "sourceText": "Patient Details",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Patient Details</span>"
+  },
+  "16": {
+    "id": "16",
+    "sourceText": "Name: Nguyen, Thi Linh",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Name: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Nguyen, Thi Linh</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "17": {
+    "id": "17",
+    "sourceText": "DOB: 19/8/1982",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">DOB: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">19/8/1982 </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "18": {
+    "id": "18",
+    "sourceText": "NHS No: 735 723 4886 Hospital No: 40117002",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">NHS No: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">735 723 4886 </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Hospital No: </span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">40117002</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\">"
+  },
+  "19": {
+    "id": "19",
+    "sourceText": "Address: 25 Glenside Avenue CANTERBURY CT1 1DB",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Address: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">25 Glenside Avenue CANTERBURY CT1 1DB</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "20": {
+    "id": "20",
+    "sourceText": "Phone: 07869 696912",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Phone:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> 07869 696912</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "21": {
+    "id": "21",
+    "sourceText": "Dept: Evelina Paediatric Palliative Care",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dept:</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> Evelina Paediatric Palliative Care</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "22": {
+    "id": "22",
+    "sourceText": "Dept Tel: 020 7188 7188 x53278",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dept Tel: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">020 7188 7188 x53278</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "23": {
+    "id": "23",
+    "sourceText": "Dept Email: gstt.paediatricpalliative@nhs.net",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dept Email: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">gstt.paediatricpalliative@nhs.net</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "24": {
+    "id": "24",
+    "sourceText": "Seen / Reviewed by: Diana Freitas",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Seen / Reviewed by: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Diana Freitas</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "25": {
+    "id": "25",
+    "sourceText": "GP Information",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">GP Information</span>"
+  },
+  "26": {
+    "id": "26",
+    "sourceText": "NORTHGATE MEDICAL PRACTICE",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">NORTHGATE MEDICAL PRACTICE</span>"
+  },
+  "27": {
+    "id": "27",
+    "sourceText": "1 NORTHGATE",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">1 NORTHGATE</span>"
+  },
+  "28": {
+    "id": "28",
+    "sourceText": "CANTERBURY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">CANTERBURY</span>"
+  },
+  "29": {
+    "id": "29",
+    "sourceText": "KENT",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">KENT</span>"
+  },
+  "30": {
+    "id": "30",
+    "sourceText": "CT1 1WL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">CT1 1WL</span>"
+  },
+  "31": {
+    "id": "31",
+    "sourceText": "Primary Recipient:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Primary Recipient:</span>"
+  },
+  "32": {
+    "id": "32",
+    "sourceText": "Mrs. Thi Linh NGUYEN",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mrs. Thi Linh NGUYEN</span>"
+  },
+  "33": {
+    "id": "33",
+    "sourceText": "Via MyChart",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Via MyChart</span>"
+  },
+  "34": {
+    "id": "34",
+    "sourceText": "Dear",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dear</span>"
+  },
+  "35": {
+    "id": "35",
+    "sourceText": "Thi Linh,",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi Linh,</span>"
+  },
+  "36": {
+    "id": "36",
+    "sourceText": "It was a pleasure for me, CNS Diana Freitas, from the Paediatric Palliative Care team to meet you, alongside Foetal Cardiologist Dr Vigneswaran and CNS Daifenir de la Cruz, on the 5th of August 2026.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">It was a pleasure for me, CNS Diana Freitas, from the Paediatric Palliative Care team to meet you, alongside Foetal Cardiologist Dr Vigneswaran and CNS Daifenir de la Cruz, on the 5th of August 2026.</span>"
+  },
+  "37": {
+    "id": "37",
+    "sourceText": "The aim for this meeting was to explain about our services and how the team can support you and your baby girl, in view of her antenatal diagnosis of Trisomy 18 and congenital heart condition.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The aim for this meeting was to explain about our services and how the team can support you and your baby girl, in view of her antenatal diagnosis of Trisomy 18 and congenital heart condition.</span>"
+  },
+  "38": {
+    "id": "38",
+    "sourceText": "We talked about the paediatric palliative care service based at the Evelina hospital and how our team can support you.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We talked about the paediatric palliative care service based at the Evelina hospital and how our team can support you.</span>"
+  },
+  "39": {
+    "id": "39",
+    "sourceText": "We are a specialist team of Consultants, Clinical Nurse Specialists (CNS) and clinical fellows.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We are a specialist team of Consultants, Clinical Nurse Specialists (CNS) and clinical fellows.</span>"
+  },
+  "40": {
+    "id": "40",
+    "sourceText": "We aim to support children with life-limiting conditions and their families, wherever they are being cared for – in hospital and in the community.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We aim to support children with life-limiting conditions and their families, wherever they are being cared for – in hospital and in the community.</span>"
+  },
+  "41": {
+    "id": "41",
+    "sourceText": "We work closely alongside the GSTT Paediatric Cardiology team and the William Harvey Hospital Neonatal team.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We work closely alongside the GSTT Paediatric Cardiology team and the William Harvey Hospital Neonatal team.</span>"
+  },
+  "42": {
+    "id": "42",
+    "sourceText": "We have three main roles:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We have three main roles:</span>"
+  },
+  "43": {
+    "id": "43",
+    "sourceText": "Advanced Care Planning – supporting you in making decisions for your baby girl, understanding what your goals of care are and how these can be achieved.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Advanced Care Planning – supporting you in making decisions for your baby girl, understanding what your goals of care are and how these can be achieved.</span>"
+  },
+  "44": {
+    "id": "44",
+    "sourceText": "Symptom management – In conjunction with an advance care plan, we can provide a symptom management plan to ensure your baby girl is as comfortable as possible by managing any distressing symptoms.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Symptom management – In conjunction with an advance care plan, we can provide a symptom management plan to ensure your baby girl is as comfortable as possible by managing any distressing symptoms.</span>"
+  },
+  "45": {
+    "id": "45",
+    "sourceText": "End of life care – we discussed that we don't know for how long your baby girl will survive, and we will also offer support when she nears her end of life.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">End of life care – we discussed that we don't know for how long your baby girl will survive, and we will also offer support when she nears her end of life.</span>"
+  },
+  "46": {
+    "id": "46",
+    "sourceText": "Thi, you kindly shared you live with your husband and you have 5 children.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi, you kindly shared you live with your husband and you have 5 children.</span>"
+  },
+  "47": {
+    "id": "47",
+    "sourceText": "You have been in the UK for 2 years, but don't yet have a work permit.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You have been in the UK for 2 years, but don't yet have a work permit.</span>"
+  },
+  "48": {
+    "id": "48",
+    "sourceText": "We discussed about referral to Demelza.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We discussed about referral to Demelza.</span>"
+  },
+  "49": {
+    "id": "49",
+    "sourceText": "Children's hospices are centres for complex and life limited children, staffed by nurses with support from local GP and our specialist team.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Children's hospices are centres for complex and life limited children, staffed by nurses with support from local GP and our specialist team.</span>"
+  },
+  "50": {
+    "id": "50",
+    "sourceText": "They are a great source of support for the whole family.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">They are a great source of support for the whole family.</span>"
+  },
+  "51": {
+    "id": "51",
+    "sourceText": "Thi you have kindly verbally consented for referral to Demelza.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi you have kindly verbally consented for referral to Demelza.</span>"
+  },
+  "52": {
+    "id": "52",
+    "sourceText": "The antenatal plan is for the birth to be in William Harvey Hospital.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The antenatal plan is for the birth to be in William Harvey Hospital.</span>"
+  },
+  "53": {
+    "id": "53",
+    "sourceText": "Depending on the condition of your baby girl after birth, if she is stable, the local team may do an assessment and cardiac echo.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Depending on the condition of your baby girl after birth, if she is stable, the local team may do an assessment and cardiac echo.</span>"
+  },
+  "54": {
+    "id": "54",
+    "sourceText": "We will liaise with the William Harvey Hospital regarding meeting you after your baby is born for discussions around advance care planning and will provide a symptom management plan.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">We will liaise with the William Harvey Hospital regarding meeting you after your baby is born for discussions around advance care planning and will provide a symptom management plan.</span>"
+  },
+  "55": {
+    "id": "55",
+    "sourceText": "As agreed with you, we will make a referral to Demelza.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">As agreed with you, we will make a referral to Demelza.</span>"
+  },
+  "56": {
+    "id": "56",
+    "sourceText": "Thi, we will send you a text with our team's contact details.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Thi, we will send you a text with our team's contact details.</span>"
+  },
+  "57": {
+    "id": "57",
+    "sourceText": "Please do contact us if you have any questions or concerns.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Please do contact us if you have any questions or concerns.</span>"
+  },
+  "58": {
+    "id": "58",
+    "sourceText": "Yours Sincerely,",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Yours Sincerely,</span>"
+  },
+  "59": {
+    "id": "59",
+    "sourceText": "Signed and authorised electronically to avoid delay",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Signed and authorised electronically to avoid delay</span>"
+  },
+  "60": {
+    "id": "60",
+    "sourceText": "Diana Freitas",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Diana Freitas</span>"
+  },
+  "61": {
+    "id": "61",
+    "sourceText": "Clinical Nurse Specialist in Paediatric Palliative Care",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Clinical Nurse Specialist in Paediatric Palliative Care</span>"
+  },
+  "62": {
+    "id": "62",
+    "sourceText": "Evelina London Children's Hospital",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Evelina London Children's Hospital</span>"
+  },
+  "63": {
+    "id": "63",
+    "sourceText": "Cc'd: NORTHGATE MEDICAL PRACTICE",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Cc'd: NORTHGATE MEDICAL PRACTICE</span>"
+  },
+  "64": {
+    "id": "64",
+    "sourceText": "1 NORTHGATE",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">1 NORTHGATE</span>"
+  },
+  "65": {
+    "id": "65",
+    "sourceText": "CANTERBURY",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">CANTERBURY</span>"
+  },
+  "66": {
+    "id": "66",
+    "sourceText": "KENT",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">KENT</span>"
+  },
+  "67": {
+    "id": "67",
+    "sourceText": "CT1 1WL",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">CT1 1WL</span>"
+  },
+  "68": {
+    "id": "68",
+    "sourceText": "Via Electronically to GP",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Via Electronically to GP</span>"
+  },
+  "69": {
+    "id": "69",
+    "sourceText": "Dr Shavindra Chellen",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Dr Shavindra Chellen</span>"
+  },
+  "70": {
+    "id": "70",
+    "sourceText": "Neonatal Consultant - William Harvey Hospital",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Neonatal Consultant - William Harvey Hospital</span>"
+  },
+  "71": {
+    "id": "71",
+    "sourceText": "(Via email)",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">(Via email)</span>"
+  },
+  "72": {
+    "id": "72",
+    "sourceText": "Via Post",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Via Post</span>"
+  },
+  "73": {
+    "id": "73",
+    "sourceText": "Name: Nguyen, Thi Linh NHS No: 735 723 4886",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Name: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Nguyen, Thi Linh </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">NHS No:</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\"> 735 723 4886</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\">"
+  },
+  "74": {
+    "id": "74",
+    "sourceText": "Page 1",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Page </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">1</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  },
+  "75": {
+    "id": "75",
+    "sourceText": "Name: Nguyen, Thi Linh NHS No: 735 723 4886",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Name: </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Nguyen, Thi Linh </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">NHS No:</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\"> 735 723 4886</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=2\">"
+  },
+  "76": {
+    "id": "76",
+    "sourceText": "Page 1",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Page </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">1</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=c4fa9d564b5042e5a04e3fdf6e73e1f7&amp;size=14&amp;type=G&amp;id=1\">"
+  }
+}

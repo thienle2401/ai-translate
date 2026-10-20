@@ -1,0 +1,206 @@
+{
+  "135": {
+    "id": "135",
+    "sourceText": "What have you done that has helped before?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">What have you done that has helped before?</span>",
+    "targetText": "Bạn đã làm gì trước đây mà đã giúp ích?"
+  },
+  "136": {
+    "id": "136",
+    "sourceText": "Take some moments to myself and do some deep breathing .",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Take some moments to myself and do some deep breathing .</span>",
+    "targetText": "Hãy dành một vài khoảnh khắc cho bản thân và hít thở sâu."
+  },
+  "137": {
+    "id": "137",
+    "sourceText": "If you are in a mental health crisis what can others do to help?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">If you are in a mental health crisis what can others do to help?</span>",
+    "targetText": "Nếu bạn đang trong một cuộc khủng hoảng sức khỏe tâm thần, người khác có thể làm gì để giúp?"
+  },
+  "138": {
+    "id": "138",
+    "sourceText": "This is a plan to refer to when I am in mental health crisis or my mental health is relapsing.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This is a plan to refer to when I am in mental health crisis or my mental health is relapsing.</span>",
+    "targetText": "Đây là kế hoạch để tham khảo khi tôi đang trong khủng hoảng sức khỏe tâm thần hoặc sức khỏe tâm thần của tôi đang tái phát."
+  },
+  "139": {
+    "id": "139",
+    "sourceText": "Having a robust crisis plan aims to prevent or reduced the likelihood of a relapse, or a deterioration in your mental health and well-being.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Having a robust crisis plan aims to prevent or reduced the likelihood of a relapse, or a deterioration in your mental health and well-being.</span>",
+    "targetText": "Có một kế hoạch khủng hoảng vững chắc nhằm ngăn chặn hoặc giảm khả năng tái phát, hoặc suy giảm sức khỏe tâm thần và hạnh phúc của bạn."
+  },
+  "140": {
+    "id": "140",
+    "sourceText": "What and how professionals can help in an event of a crisis? 1.",
+    "sourceHTML": "<img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">What and how professionals can help in an event of a crisis? </span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"X\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">1.</span>",
+    "targetText": "Chuyên gia có thể giúp gì và làm thế nào trong trường hợp khủng hoảng? 1. 1."
+  },
+  "141": {
+    "id": "141",
+    "sourceText": "My GP on who could offer advice accordingly during office hours Monday – Friday 8-6.30pm(excluding bank holidays) on 01722 744775.2.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">My GP on who could offer advice accordingly during office hours Monday – Friday 8-6.30pm(excluding bank holidays) on 01722 744775.</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">2.</span>",
+    "targetText": "Bác sĩ gia đình của tôi, người có thể đưa ra lời khuyên phù hợp, trong giờ hành chính từ Thứ Hai đến Thứ Sáu, 8:0018:30 (trừ ngày lễ), số 01722 744775. 18:30 01722 744775 82. 2."
+  },
+  "142": {
+    "id": "142",
+    "sourceText": "The BSW Perinatal Service on 01249767851 and request to speak to my care Perinatal Keyworker, Trish.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The BSW Perinatal Service on 01249767851 and request to speak to my care Perinatal Keyworker, Trish.</span>",
+    "targetText": "Dịch vụ BSW Perinatal qua số 01249767851 và yêu cầu nói chuyện với Keyworker Perinatal của tôi, Trish. 01249767851"
+  },
+  "143": {
+    "id": "143",
+    "sourceText": "Trish can listen to me and offer support and advice.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Trish can listen to me and offer support and advice.</span>",
+    "targetText": "Trish có thể lắng nghe tôi và cung cấp sự hỗ trợ và lời khuyên."
+  },
+  "144": {
+    "id": "144",
+    "sourceText": "If she is not available, I can request to speak with the duty practitioner.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">If she is not available, I can request to speak with the duty practitioner.</span>",
+    "targetText": "Nếu cô ấy không có mặt, tôi có thể yêu cầu được nói chuyện với nhân viên thực hành trực."
+  },
+  "145": {
+    "id": "145",
+    "sourceText": "The Perinatal Service is available Monday to Friday 09:00-17:00 (excluding bank holidays).",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The Perinatal Service is available Monday to Friday 09:00-17:00 (excluding bank holidays).</span>",
+    "targetText": "Dịch vụ Perinatal có sẵn từ Thứ Hai đến Thứ Sáu, 09:0017:00 (không bao gồm ngày lễ ngân hàng). 09:00 17:00"
+  },
+  "146": {
+    "id": "146",
+    "sourceText": "The BSW Perinatal Service can review my needs and put additional support in place if required such as more frequent contact.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The BSW Perinatal Service can review my needs and put additional support in place if required such as more frequent contact.</span>",
+    "targetText": "BSW Perinatal Service có thể xem xét nhu cầu của tôi và đặt hỗ trợ bổ sung nếu cần, chẳng hạn như liên lạc thường xuyên hơn."
+  },
+  "147": {
+    "id": "147",
+    "sourceText": "My support network can also contact the team for support and advice for my mental health and well-being.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">My support network can also contact the team for support and advice for my mental health and well-being.</span>",
+    "targetText": "Mạng lưới hỗ trợ của tôi cũng có thể liên hệ với nhóm để nhận được sự hỗ trợ và tư vấn cho sức khỏe tâm thần và hạnh phúc của tôi."
+  },
+  "148": {
+    "id": "148",
+    "sourceText": "They could also look at having a medical review with the Perinatal medics if required.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">They could also look at having a medical review with the Perinatal medics if required.</span>",
+    "targetText": "Họ cũng có thể xem xét việc thực hiện một cuộc đánh giá y tế với đội ngũ y tế Perinatal nếu cần."
+  },
+  "149": {
+    "id": "149",
+    "sourceText": "A referral to the intensive service could also be completed if required.3.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">A referral to the intensive service could also be completed if required.</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">3.</span>",
+    "targetText": "Việc giới thiệu tới dịch vụ chuyên sâu cũng có thể được thực hiện nếu cần.3. 3."
+  },
+  "150": {
+    "id": "150",
+    "sourceText": "Mental Health 111 provides 24-hour expert advice, assessment and support.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mental Health 111 provides 24-hour expert advice, assessment and support.</span>",
+    "targetText": "Mental Health 111 cung cấp tư vấn chuyên môn, đánh giá và hỗ trợ 24giờ. 111 24"
+  },
+  "151": {
+    "id": "151",
+    "sourceText": "Call 111 and press option 2. 4.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Call 111 and press option 2. </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">4.</span>",
+    "targetText": "Gọi 111 và nhấn tùy chọn 2. 111 2 4. 4."
+  },
+  "152": {
+    "id": "152",
+    "sourceText": "South Wiltshire Intensive Service (crisis team) can be contacted by you or your support network, out of hours on 01722820173- every phone call to the team is triaged and they will respond as required.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">South Wiltshire Intensive Service (crisis team) can be contacted by you or your support network, out of hours on 01722820173- every phone call to the team is triaged and they will respond as required.</span>",
+    "targetText": "South Wiltshire Intensive Service (đội ngũ khủng hoảng) có thể được bạn hoặc mạng hỗ trợ của bạn liên hệ ngoài giờ làm việc qua số 01722820173 – mọi cuộc gọi đến đội ngũ sẽ được sàng lọc và họ sẽ phản hồi theo yêu cầu. 01722820173"
+  },
+  "153": {
+    "id": "153",
+    "sourceText": "The perinatal team may also refer me to the Intensive Service for additional support if my mental health deteriorates as an alternative to hospital admission- all teams can work alongside each other to ensure you and family members feel supported in the community. 5.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The perinatal team may also refer me to the Intensive Service for additional support if my mental health deteriorates as an alternative to hospital admission- all teams can work alongside each other to ensure you and family members feel supported in the community. </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">5.</span>",
+    "targetText": "Nhóm ngoại sản cũng có thể giới thiệu tôi đến Dịch vụ Chuyên sâu để được hỗ trợ thêm nếu sức khỏe tâm thần của tôi xấu đi, như một lựa chọn thay cho việc nhập viện — tất cả các đội ngũ có thể làm việc cùng nhau để đảm bảo bạn và các thành viên trong gia đình cảm thấy được hỗ trợ trong cộng đồng. 5. 5."
+  },
+  "154": {
+    "id": "154",
+    "sourceText": "If I feel (or others around me feel) I am an immediate danger to myself or others I should contact 999 for emergency support.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">If I feel (or others around me feel) I am an immediate danger to myself or others I should contact 999 for emergency support.</span>",
+    "targetText": "Nếu tôi cảm thấy (hoặc những người xung quanh tôi cảm thấy) rằng tôi là mối nguy hiểm ngay lập tức cho bản thân hoặc người khác, tôi nên gọi 999 để được hỗ trợ khẩn cấp. 999"
+  },
+  "155": {
+    "id": "155",
+    "sourceText": "Alternatively I and/or my support network can contact the following services for advice;1.",
+    "sourceHTML": "<img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">Alternatively I and/or my support network can contact the following services for advice;</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"X\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">1.</span>",
+    "targetText": "Ngoài ra, tôi và/hoặc mạng lưới hỗ trợ của tôi có thể liên hệ với các dịch vụ sau để được tư vấn; 1.1"
+  },
+  "156": {
+    "id": "156",
+    "sourceText": "Samaritans 116 123 anytime 2.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Samaritans 116 123 anytime </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">2.</span>",
+    "targetText": "Samaritans 116 123 bất cứ lúc nào 2 . 116 123  2"
+  },
+  "157": {
+    "id": "157",
+    "sourceText": "Shout is a free, confidential, anonymous service for anyone in the UK.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Shout is a free, confidential, anonymous service for anyone in the UK.</span>",
+    "targetText": "Shout là một dịch vụ miễn phí, bí mật, ẩn danh cho bất kỳ ai ở Anh."
+  },
+  "158": {
+    "id": "158",
+    "sourceText": "It won’t appear on your phone bill.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">It won’t appear on your phone bill.</span>",
+    "targetText": "Nó sẽ không xuất hiện trên hóa đơn điện thoại của bạn."
+  },
+  "159": {
+    "id": "159",
+    "sourceText": "To start a conversation, text the word 'SHOUT' to 85258.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">To start a conversation, text the word 'SHOUT' to 85258.</span>",
+    "targetText": "Để bắt đầu một cuộc trò chuyện, hãy nhắn 'SHOUT' đến 85258. 85258"
+  },
+  "160": {
+    "id": "160",
+    "sourceText": "Trained volunteers are there for you 24/7 to listen and support you to get to a calmer and safe place.3.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Trained volunteers are there for you 24/7 to listen and support you to get to a calmer and safe place.</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">3.</span>",
+    "targetText": "Các tình nguyện viên được đào tạo sẵn sàng 24/7 để lắng nghe và hỗ trợ bạn đến một nơi yên tĩnh hơn và an toàn. 24/73. 3."
+  },
+  "161": {
+    "id": "161",
+    "sourceText": "SANEline on 0300 304 7000 between 4.30pm and 10.30pm each evening4.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">SANEline on 0300 304 7000 between 4.30pm and 10.30pm each evening</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">4.</span>",
+    "targetText": ""
+  },
+  "162": {
+    "id": "162",
+    "sourceText": "For Wiltshire residents: ACCESS Mental Health Wellbeing and Support Line: Tel: 08082 803528 open 9am – 11pm every day.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">For Wiltshire residents: ACCESS Mental Health Wellbeing and Support Line: Tel: 08082 803528 open 9am – 11pm every day.</span>",
+    "targetText": ""
+  },
+  "163": {
+    "id": "163",
+    "sourceText": "Face to Face Appointments are also available by appointment calling the above number.5.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Face to Face Appointments are also available by appointment calling the above number.</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"X\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">5.</span>",
+    "targetText": ""
+  },
+  "164": {
+    "id": "164",
+    "sourceText": "Papyrus (08000684141).",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Papyrus (08000684141).</span>",
+    "targetText": "Papyrus (08000684141). 08000684141"
+  },
+  "165": {
+    "id": "165",
+    "sourceText": "The Hope Line.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">The Hope Line.</span>",
+    "targetText": "Đường dây Hy Vọng."
+  },
+  "166": {
+    "id": "166",
+    "sourceText": "They can offer intervention and develop safety plans.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">They can offer intervention and develop safety plans.</span>",
+    "targetText": "Họ có thể can thiệp và lập kế hoạch an toàn."
+  },
+  "167": {
+    "id": "167",
+    "sourceText": "PAT@papyrus-uk.org or text 88247 (and they will phone back).",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PAT@papyrus-uk.org or text 88247 (and they will phone back).</span>",
+    "targetText": "PAT@papyrus-uk.org hoặc nhắn tin 88247 (và họ sẽ gọi lại). 88247"
+  },
+  "168": {
+    "id": "168",
+    "sourceText": "What do you want to happen if you have to leave home to find more support, e.g. to go to hospital?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">What do you want to happen if you have to leave home to find more support, e.g. to go to hospital?</span>",
+    "targetText": "Bạn muốn điều gì xảy ra nếu bạn phải rời khỏi nhà để tìm thêm sự hỗ trợ, ví dụ như đến bệnh viện?"
+  }
+}

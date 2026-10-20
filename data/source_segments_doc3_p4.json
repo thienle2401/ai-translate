@@ -1,0 +1,80 @@
+{
+  "169": {
+    "id": "169",
+    "sourceText": "Who would you like to be contacted?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Who would you like to be contacted?</span>",
+    "targetText": "Bạn muốn ai được liên lạc?"
+  },
+  "170": {
+    "id": "170",
+    "sourceText": "My lawyer",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">My lawyer</span>",
+    "targetText": "Luật sư của tôi"
+  },
+  "171": {
+    "id": "171",
+    "sourceText": "What would you like to happen if you are unable to make decisions for yourself?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">What would you like to happen if you are unable to make decisions for yourself?</span>",
+    "targetText": "Bạn muốn điều gì xảy ra nếu bạn không thể tự đưa ra quyết định cho mình?"
+  },
+  "172": {
+    "id": "172",
+    "sourceText": "I would like my lawyer to make decisions on my behalf if I am unable to.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I would like my lawyer to make decisions on my behalf if I am unable to.</span>",
+    "targetText": "Tôi muốn luật sư của tôi thay mặt tôi đưa ra quyết định nếu tôi không thể tự quyết định."
+  },
+  "173": {
+    "id": "173",
+    "sourceText": "Page 2 of 3",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Page </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">2</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> of </span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">3</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=2\">",
+    "targetText": "Trang 2 của 3  3"
+  },
+  "174": {
+    "id": "174",
+    "sourceText": "D.O.B. 19/02/1992 NHS Number: 736 075 7967",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">D.O.B. </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">19/02/1992</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> NHS Number: </span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">736 075 7967</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=2\">",
+    "targetText": "D.O.B. 19/02/1992 19/02/1992 Số NHS: 736 736 075 7967 075 7967"
+  },
+  "175": {
+    "id": "175",
+    "sourceText": "AWP_client-dob",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">AWP_client-dob</span>",
+    "targetText": "AWP_client-dob"
+  },
+  "176": {
+    "id": "176",
+    "sourceText": "client-nhs-number",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">client-nhs-number</span>",
+    "targetText": "số NHS của khách hàng"
+  },
+  "177": {
+    "id": "177",
+    "sourceText": "Page 2 of 3",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Page </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">2</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> of </span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">3</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=2\">",
+    "targetText": "Trang 2 của 3  3"
+  },
+  "178": {
+    "id": "178",
+    "sourceText": "D.O.B. 19/02/1992 NHS Number: 736 075 7967",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">D.O.B. </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">19/02/1992</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> NHS Number: </span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">736 075 7967</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=2\">",
+    "targetText": "D.O.B. 19/02/1992 19/02/1992 Số NHS: 736 736 075 7967 075 7967"
+  },
+  "179": {
+    "id": "179",
+    "sourceText": "AWP_client-dob",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">AWP_client-dob</span>",
+    "targetText": "AWP_client-dob"
+  },
+  "180": {
+    "id": "180",
+    "sourceText": "client-nhs-number",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">client-nhs-number</span>",
+    "targetText": "số NHS của khách hàng"
+  },
+  "181": {
+    "id": "181",
+    "sourceText": "Page 1 of 3",
+    "sourceHTML": "<img class=\"inline\" data-inline-id=\"3\" data-inline-type=\"X\" aria-label=\"{3}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=X&amp;id=3\"><span class=\"text-node\" data-text-node=\"true\">Page </span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\">1</span><img class=\"inline\" data-inline-id=\"1\" data-inline-type=\"G\" aria-label=\"{1}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=1\"><span class=\"text-node\" data-text-node=\"true\"> of </span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=2\"><span class=\"text-node\" data-text-node=\"true\">3</span><img class=\"inline\" data-inline-id=\"2\" data-inline-type=\"G\" aria-label=\"{2}\" src=\"web/inline-image?_s=1db26c2b58294030aac991daf58e033c&amp;size=14&amp;type=G&amp;id=2\">",
+    "targetText": ""
+  }
+}

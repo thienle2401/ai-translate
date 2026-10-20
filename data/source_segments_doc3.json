@@ -1,0 +1,602 @@
+{
+  "1": {
+    "id": "1",
+    "sourceText": "LVU 1716486 03082026 PWP 1",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">LVU 1716486 03082026 PWP 1</span>",
+    "targetText": "LVU 1716486 03082026 PWP 1 1716486 03082026 1"
+  },
+  "2": {
+    "id": "2",
+    "sourceText": "Click or tap here to enter text.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Click or tap here to enter text.</span>",
+    "targetText": "Nhấp hoặc chạm vào đây để nhập văn bản."
+  },
+  "3": {
+    "id": "3",
+    "sourceText": "Click or tap here to enter text.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Click or tap here to enter text.</span>",
+    "targetText": "Nhấp hoặc chạm vào đây để nhập văn bản."
+  },
+  "4": {
+    "id": "4",
+    "sourceText": "Click or tap here to enter text.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Click or tap here to enter text.</span>",
+    "targetText": "Nhấp hoặc chạm vào đây để nhập văn bản."
+  },
+  "5": {
+    "id": "5",
+    "sourceText": "Click or tap here to enter text.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Click or tap here to enter text.</span>",
+    "targetText": "Nhấp hoặc chạm vào đây để nhập văn bản."
+  },
+  "6": {
+    "id": "6",
+    "sourceText": "Click or tap here to enter text.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Click or tap here to enter text.</span>",
+    "targetText": "Nhấp hoặc chạm vào đây để nhập văn bản."
+  },
+  "7": {
+    "id": "7",
+    "sourceText": "Click or tap here to enter text.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Click or tap here to enter text.</span>",
+    "targetText": "Nhấp hoặc chạm vào đây để nhập văn bản."
+  },
+  "8": {
+    "id": "8",
+    "sourceText": "Personal Wellbeing Plan",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Personal Wellbeing Plan</span>",
+    "targetText": "Kế hoạch Phúc lợi cá nhân"
+  },
+  "9": {
+    "id": "9",
+    "sourceText": "This is your copy of your personal wellbeing plan.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">This is your copy of your personal wellbeing plan.</span>",
+    "targetText": "Đây là bản sao của kế hoạch sức khỏe và hạnh phúc cá nhân của bạn."
+  },
+  "10": {
+    "id": "10",
+    "sourceText": "You will find the details of our support conversation about the goals and our agreed actions to support you in achieving them.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">You will find the details of our support conversation about the goals and our agreed actions to support you in achieving them.</span>",
+    "targetText": "Bạn sẽ tìm thấy chi tiết của cuộc trò chuyện hỗ trợ của chúng tôi về các mục tiêu và các hành động đã thỏa thuận nhằm hỗ trợ bạn đạt được chúng."
+  },
+  "11": {
+    "id": "11",
+    "sourceText": "Date of support conversation:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Date of support conversation:</span>",
+    "targetText": "Ngày cuộc trò chuyện hỗ trợ:"
+  },
+  "12": {
+    "id": "12",
+    "sourceText": "28 Jul 2026",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">28 Jul 2026</span>",
+    "targetText": "28/07/2026 28 tháng bảy 2026"
+  },
+  "13": {
+    "id": "13",
+    "sourceText": "PWP-SupportConv-Date",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-SupportConv-Date</span>",
+    "targetText": "PWP-SupportConv-Ngày"
+  },
+  "14": {
+    "id": "14",
+    "sourceText": "Your next Support Conversation is due before the following date:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Your next Support Conversation is due before the following date:</span>",
+    "targetText": "Cuộc trò chuyện Hỗ trợ tiếp theo của bạn phải diễn ra trước ngày sau:"
+  },
+  "15": {
+    "id": "15",
+    "sourceText": "28 Oct 2026",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">28 Oct 2026</span>",
+    "targetText": ""
+  },
+  "16": {
+    "id": "16",
+    "sourceText": "PWP-NextSupportConv-Date",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-NextSupportConv-Date</span>",
+    "targetText": "PWP-NextSupportConv-Date"
+  },
+  "17": {
+    "id": "17",
+    "sourceText": "Personal Information",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Personal Information</span>",
+    "targetText": ""
+  },
+  "18": {
+    "id": "18",
+    "sourceText": "Name:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Name:</span>",
+    "targetText": "Tên:"
+  },
+  "19": {
+    "id": "19",
+    "sourceText": "Miss Lien Thi Kim VU",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Miss Lien Thi Kim VU</span>",
+    "targetText": ""
+  },
+  "20": {
+    "id": "20",
+    "sourceText": "client-name",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">client-name</span>",
+    "targetText": "Tên khách hàng"
+  },
+  "21": {
+    "id": "21",
+    "sourceText": "Date of Birth:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Date of Birth:</span>",
+    "targetText": "Ngày sinh:"
+  },
+  "22": {
+    "id": "22",
+    "sourceText": "19 Feb 1992",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">19 Feb 1992</span>",
+    "targetText": "19 19 tháng hai 1992 Feb 1992"
+  },
+  "23": {
+    "id": "23",
+    "sourceText": "client-date-of-birth",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">client-date-of-birth</span>",
+    "targetText": "Ngày sinh"
+  },
+  "24": {
+    "id": "24",
+    "sourceText": "NHS number:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">NHS number:</span>",
+    "targetText": "Số NHS:"
+  },
+  "25": {
+    "id": "25",
+    "sourceText": "736 075 7967",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">736 075 7967</span>",
+    "targetText": "736 075 7967"
+  },
+  "26": {
+    "id": "26",
+    "sourceText": "client-nhs-number",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">client-nhs-number</span>",
+    "targetText": "số NHS của khách hàng"
+  },
+  "27": {
+    "id": "27",
+    "sourceText": "Address:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Address:</span>",
+    "targetText": "Địa chỉ:"
+  },
+  "28": {
+    "id": "28",
+    "sourceText": "4c West Street",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">4c West Street</span>",
+    "targetText": "4c West Street"
+  },
+  "29": {
+    "id": "29",
+    "sourceText": "client-address-line1",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">client-address-line1</span>",
+    "targetText": "Địa chỉ khách hàng dòng 1"
+  },
+  "30": {
+    "id": "30",
+    "sourceText": "Wilton",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Wilton</span>",
+    "targetText": ""
+  },
+  "31": {
+    "id": "31",
+    "sourceText": "client-address-line2",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">client-address-line2</span>",
+    "targetText": "địa chỉ khách hàng-dòng 2"
+  },
+  "32": {
+    "id": "32",
+    "sourceText": "Salisbury",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Salisbury</span>",
+    "targetText": ""
+  },
+  "33": {
+    "id": "33",
+    "sourceText": "client-address-line3",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">client-address-line3</span>",
+    "targetText": "địa chỉ khách hàng dòng 3"
+  },
+  "34": {
+    "id": "34",
+    "sourceText": "Wilts",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Wilts</span>",
+    "targetText": "Wilts"
+  },
+  "35": {
+    "id": "35",
+    "sourceText": "client-address-line4",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">client-address-line4</span>",
+    "targetText": "địa chỉ khách hàng dòng 4"
+  },
+  "36": {
+    "id": "36",
+    "sourceText": "SP2 0DF",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">SP2 0DF</span>",
+    "targetText": "SP2 0DF"
+  },
+  "37": {
+    "id": "37",
+    "sourceText": "client-postcode",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">client-postcode</span>",
+    "targetText": "mã bưu điện khách hàng"
+  },
+  "38": {
+    "id": "38",
+    "sourceText": "Telephone number:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Telephone number:</span>",
+    "targetText": "Số điện thoại:"
+  },
+  "39": {
+    "id": "39",
+    "sourceText": "07535441379",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">07535441379</span>",
+    "targetText": "07535441379"
+  },
+  "40": {
+    "id": "40",
+    "sourceText": "Email address:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Email address:</span>",
+    "targetText": "Địa chỉ email:"
+  },
+  "41": {
+    "id": "41",
+    "sourceText": "lienvtk0292@gmail.com",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">lienvtk0292@gmail.com</span>",
+    "targetText": "lienvtk0292@gmail.com"
+  },
+  "42": {
+    "id": "42",
+    "sourceText": "Client-email-address",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Client-email-address</span>",
+    "targetText": "Địa chỉ email khách hàng"
+  },
+  "43": {
+    "id": "43",
+    "sourceText": "Which staff member is co-producing your Support Conversation with you?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Which staff member is co-producing your Support Conversation with you?</span>",
+    "targetText": "Nhân viên nào đang đồng thực hiện cuộc trò chuyện hỗ trợ cùng bạn?"
+  },
+  "44": {
+    "id": "44",
+    "sourceText": "Name:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Name:</span>",
+    "targetText": "Tên:"
+  },
+  "45": {
+    "id": "45",
+    "sourceText": "Mrs Trish Fellows",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Mrs Trish Fellows</span>",
+    "targetText": "Bà Trish Fellows"
+  },
+  "46": {
+    "id": "46",
+    "sourceText": "PWP-CoProducer-Name",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-CoProducer-Name</span>",
+    "targetText": "Tên đồng sản xuất PWP"
+  },
+  "47": {
+    "id": "47",
+    "sourceText": "Role:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Role:</span>",
+    "targetText": "Vai trò:"
+  },
+  "48": {
+    "id": "48",
+    "sourceText": "perinatal keyworker",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">perinatal keyworker</span>",
+    "targetText": "keyworker tiền sinh"
+  },
+  "49": {
+    "id": "49",
+    "sourceText": "PWP-CoProdRole",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-CoProdRole</span>",
+    "targetText": "PWP-CoProdRole"
+  },
+  "50": {
+    "id": "50",
+    "sourceText": "Contact Information:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Contact Information:</span>",
+    "targetText": "Thông tin liên hệ:"
+  },
+  "51": {
+    "id": "51",
+    "sourceText": "01249 767851",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">01249 767851</span>",
+    "targetText": "01249 767851"
+  },
+  "52": {
+    "id": "52",
+    "sourceText": "PWP-CoProdContact",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-CoProdContact</span>",
+    "targetText": "PWP-CoProdLiên hệ"
+  },
+  "53": {
+    "id": "53",
+    "sourceText": "Key Worker",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Key Worker</span>",
+    "targetText": "Nhân viên hỗ trợ chính"
+  },
+  "54": {
+    "id": "54",
+    "sourceText": "Name:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Name:</span>",
+    "targetText": "Tên:"
+  },
+  "55": {
+    "id": "55",
+    "sourceText": "FELLOWS, Trish (Mrs)",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">FELLOWS, Trish (Mrs)</span>",
+    "targetText": "Bà Trish Fellows"
+  },
+  "56": {
+    "id": "56",
+    "sourceText": "PWP-Keyworker",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-Keyworker</span>",
+    "targetText": "PWP-Keyworker"
+  },
+  "57": {
+    "id": "57",
+    "sourceText": "Team:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Team:</span>",
+    "targetText": "Nhóm:"
+  },
+  "58": {
+    "id": "58",
+    "sourceText": "Specialised Community Perinatal Service",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Specialised Community Perinatal Service</span>",
+    "targetText": "Dịch vụ Chuyên khoa Sức khỏe Sinh sản và Tâm thần Chu sinh tại Cộng đồng"
+  },
+  "59": {
+    "id": "59",
+    "sourceText": "PWP-KeyWorkerTeam",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-KeyWorkerTeam</span>",
+    "targetText": "PWP-KeyWorkerTeam"
+  },
+  "60": {
+    "id": "60",
+    "sourceText": "Role:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Role:</span>",
+    "targetText": "Vai trò:"
+  },
+  "61": {
+    "id": "61",
+    "sourceText": "Perinatal keyworker",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Perinatal keyworker</span>",
+    "targetText": ""
+  },
+  "62": {
+    "id": "62",
+    "sourceText": "PWP-KeyWorkRole",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-KeyWorkRole</span>",
+    "targetText": "PWP-KeyWorkRole"
+  },
+  "63": {
+    "id": "63",
+    "sourceText": "Contact Information:",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Contact Information:</span>",
+    "targetText": "Thông tin liên hệ:"
+  },
+  "64": {
+    "id": "64",
+    "sourceText": "01249 767851",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">01249 767851</span>",
+    "targetText": "01249 767851"
+  },
+  "65": {
+    "id": "65",
+    "sourceText": "PWP-KeyWorkerContact",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-KeyWorkerContact</span>",
+    "targetText": "PWP-KeyWorker Liên hệ"
+  },
+  "66": {
+    "id": "66",
+    "sourceText": "Were they participating in this conversation?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Were they participating in this conversation?</span>",
+    "targetText": "Họ có đang tham gia cuộc trò chuyện này không?"
+  },
+  "67": {
+    "id": "67",
+    "sourceText": "Yes",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Yes</span>",
+    "targetText": "Có"
+  },
+  "68": {
+    "id": "68",
+    "sourceText": "PWP-KeyWorkerPart",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-KeyWorkerPart</span>",
+    "targetText": "PWP-KeyWorkerPhần"
+  },
+  "69": {
+    "id": "69",
+    "sourceText": "Your Team",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Your Team</span>",
+    "targetText": "Nhóm của bạn"
+  },
+  "70": {
+    "id": "70",
+    "sourceText": "Name",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Name</span>",
+    "targetText": ""
+  },
+  "71": {
+    "id": "71",
+    "sourceText": "Role/Relationship",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Role/Relationship</span>",
+    "targetText": "Vai trò/Quan hệ"
+  },
+  "72": {
+    "id": "72",
+    "sourceText": "Organisation",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Organisation</span>",
+    "targetText": "Tổ chức"
+  },
+  "73": {
+    "id": "73",
+    "sourceText": "Contact Number",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Contact Number</span>",
+    "targetText": ""
+  },
+  "74": {
+    "id": "74",
+    "sourceText": "Were they participating in this conversation?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Were they participating in this conversation?</span>",
+    "targetText": "Họ có đang tham gia cuộc trò chuyện này không?"
+  },
+  "75": {
+    "id": "75",
+    "sourceText": "Trish Fellows",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Trish Fellows</span>",
+    "targetText": "Trish Fellows"
+  },
+  "76": {
+    "id": "76",
+    "sourceText": "Perinatal keyworker",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Perinatal keyworker</span>",
+    "targetText": ""
+  },
+  "77": {
+    "id": "77",
+    "sourceText": "BSW",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">BSW</span>",
+    "targetText": ""
+  },
+  "78": {
+    "id": "78",
+    "sourceText": "01249 767851",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">01249 767851</span>",
+    "targetText": "01249 767851"
+  },
+  "79": {
+    "id": "79",
+    "sourceText": "Yes",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Yes</span>",
+    "targetText": "Có"
+  },
+  "80": {
+    "id": "80",
+    "sourceText": "Lien Vu",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Lien Vu</span>",
+    "targetText": "Liên Vũ"
+  },
+  "81": {
+    "id": "81",
+    "sourceText": "Service User",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Service User</span>",
+    "targetText": "Người dùng dịch vụ"
+  },
+  "82": {
+    "id": "82",
+    "sourceText": "Yes",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Yes</span>",
+    "targetText": "Có"
+  },
+  "83": {
+    "id": "83",
+    "sourceText": "What do we need to do to make this conversation a good one?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">What do we need to do to make this conversation a good one?</span>",
+    "targetText": "Chúng ta cần làm gì để cuộc nói chuyện này diễn ra tốt đẹp?"
+  },
+  "84": {
+    "id": "84",
+    "sourceText": "I do have a reasonable level of English, however it is preferable to use an interpreter particularly with more complex conversations.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I do have a reasonable level of English, however it is preferable to use an interpreter particularly with more complex conversations.</span>",
+    "targetText": "Tôi có trình độ tiếng Anh hợp lý, nhưng tốt hơn là sử dụng một thông dịch viên, đặc biệt là trong các cuộc trò chuyện phức tạp hơn."
+  },
+  "85": {
+    "id": "85",
+    "sourceText": "PWP-ConversationGood",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-ConversationGood</span>",
+    "targetText": "PWP-ConversationGood"
+  },
+  "86": {
+    "id": "86",
+    "sourceText": "Details of conversation about consent to share information",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">Details of conversation about consent to share information</span>",
+    "targetText": "Chi tiết cuộc trò chuyện về việc đồng ý chia sẻ thông tin"
+  },
+  "87": {
+    "id": "87",
+    "sourceText": "I consent for information to be shared with my lawyer and professionals involved within my care.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I consent for information to be shared with my lawyer and professionals involved within my care.</span>",
+    "targetText": "Tôi đồng ý cho phép thông tin được chia sẻ với luật sư của tôi và các chuyên gia tham gia chăm sóc cho tôi."
+  },
+  "88": {
+    "id": "88",
+    "sourceText": "PWP-ConsentToShare",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-ConsentToShare</span>",
+    "targetText": "PWP-Đồng ý chia sẻ"
+  },
+  "89": {
+    "id": "89",
+    "sourceText": "What matters to you?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">What matters to you?</span>",
+    "targetText": "Điều gì quan trọng đối với bạn?"
+  },
+  "90": {
+    "id": "90",
+    "sourceText": "What do you feel is important for the people working with you to know about you?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">What do you feel is important for the people working with you to know about you?</span>",
+    "targetText": "Bạn cảm thấy điều gì quan trọng mà những người làm việc cùng bạn nên biết về bạn?"
+  },
+  "91": {
+    "id": "91",
+    "sourceText": "I have limited support locally .",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I have limited support locally .</span>",
+    "targetText": "Tôi có hỗ trợ hạn chế tại địa phương."
+  },
+  "92": {
+    "id": "92",
+    "sourceText": "PWP-WhatIsImportant",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-WhatIsImportant</span>",
+    "targetText": "PWP-WhatIsImportant"
+  },
+  "93": {
+    "id": "93",
+    "sourceText": "What has happened?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">What has happened?</span>",
+    "targetText": "Chuyện gì đã xảy ra?"
+  },
+  "94": {
+    "id": "94",
+    "sourceText": "What is the situation?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">What is the situation?</span>",
+    "targetText": "Tình hình như thế nào?"
+  },
+  "95": {
+    "id": "95",
+    "sourceText": "I have fled domestic abuse from my husband , who has made threats to kill me or have me deported.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I have fled domestic abuse from my husband , who has made threats to kill me or have me deported.</span>",
+    "targetText": "Tôi đã trốn khỏi bạo lực gia đình của chồng mình, người đã đe dọa giết tôi hoặc trục xuất tôi."
+  },
+  "96": {
+    "id": "96",
+    "sourceText": "I have little access to money and I am soon to become homeless .",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I have little access to money and I am soon to become homeless .</span>",
+    "targetText": "Tôi ít có tiền và sắp trở thành người vô gia cư."
+  },
+  "97": {
+    "id": "97",
+    "sourceText": "I have three children and I worry about our future , which is causing me significant anxiety.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I have three children and I worry about our future , which is causing me significant anxiety.</span>",
+    "targetText": "Tôi có ba đứa con và tôi lo lắng về tương lai của chúng tôi, điều này gây ra cho tôi sự lo lắng đáng kể."
+  },
+  "98": {
+    "id": "98",
+    "sourceText": "I am currently on a spousal visa, I would like to be granted long -term immigration status of my own right, independent from my husband.",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">I am currently on a spousal visa, I would like to be granted long -term immigration status of my own right, independent from my husband.</span>",
+    "targetText": "Tôi hiện đang có visa vợ/chồng, tôi muốn được cấp tình trạng nhập cư dài hạn theo quyền riêng của mình, độc lập với chồng tôi."
+  },
+  "99": {
+    "id": "99",
+    "sourceText": "PWP-WhatHappened",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">PWP-WhatHappened</span>",
+    "targetText": "PWP-WhatHappened"
+  },
+  "100": {
+    "id": "100",
+    "sourceText": "What are your long term goals?",
+    "sourceHTML": "<span class=\"text-node\" data-text-node=\"true\">What are your long term goals?</span>",
+    "targetText": "Mục tiêu dài hạn của bạn là gì?"
+  }
+}
